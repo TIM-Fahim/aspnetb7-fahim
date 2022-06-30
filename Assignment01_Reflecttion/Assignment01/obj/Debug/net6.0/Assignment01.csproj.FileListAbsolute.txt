@@ -1,0 +1,30 @@
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\bin\Debug\net6.0\Assignment01.exe
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\bin\Debug\net6.0\Assignment01.deps.json
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\bin\Debug\net6.0\Assignment01.runtimeconfig.json
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\bin\Debug\net6.0\Assignment01.dll
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\bin\Debug\net6.0\Assignment01.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.csproj.AssemblyReference.cache
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.AssemblyInfoInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.AssemblyInfo.cs
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.csproj.CoreCompileInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.dll
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\refint\Assignment01.dll
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.genruntimeconfig.cache
+D:\DevSkill\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\ref\Assignment01.dll
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\bin\Debug\net6.0\Assignment01.exe
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\bin\Debug\net6.0\Assignment01.deps.json
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\bin\Debug\net6.0\Assignment01.runtimeconfig.json
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\bin\Debug\net6.0\Assignment01.dll
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\bin\Debug\net6.0\Assignment01.pdb
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.csproj.AssemblyReference.cache
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.AssemblyInfoInputs.cache
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.AssemblyInfo.cs
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.csproj.CoreCompileInputs.cache
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.dll
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\refint\Assignment01.dll
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.pdb
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\Assignment01.genruntimeconfig.cache
+C:\Users\T.I.M Fahim Sahryer\Desktop\aspnetb7-fahim\Assignment01_Reflecttion\Assignment01\obj\Debug\net6.0\ref\Assignment01.dll
