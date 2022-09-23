@@ -15,12 +15,12 @@ namespace Exam1_2.Infrastructure.Repositories
         {
         }
 
-        public (IList<Course> data, int total, int totalDisplay) GetCourses(int pageIndex,
+        public (IList<Book> data, int total, int totalDisplay) GetCourses(int pageIndex,
             int pageSize, string searchText, string orderby)
         {
-            (IList<Course> data, int total, int totalDisplay) results = 
+            (IList<Book> data, int total, int totalDisplay) results = 
                 GetDynamic(x => x.Title.Contains(searchText), orderby,
-                "Topics,CourseStudents", pageIndex, pageSize, true);
+                "Title,BookReader", pageIndex, pageSize, true);
 
             return results;
         }

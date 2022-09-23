@@ -34,7 +34,7 @@ namespace Exam1_2.Infrastructure
                 .WithParameter("migrationAssemblyName", _migrationAssemblyName)
                 .InstancePerLifetimeScope();
 
-            builder.RegisterType<CourseService>().As<IBookService>()
+            builder.RegisterType<BookService>().As<IBookService>()
                 .InstancePerLifetimeScope();
 
             builder.RegisterType<BookRepository>().As<IBookRepository>()

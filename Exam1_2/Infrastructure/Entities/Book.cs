@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Exam1_2.Infrastructure.Entities
 {
-    public class Course : IEntity<Guid>
+    public class Book : IEntity<Guid>
     {
         public Guid Id { get; set; }
         public string Title { get; set; }
-        public double Fees { get; set; }
-        public DateTime ClassStartDate { get; set; }
-        public List<Topic> Topics { get; set; }
-        public List<ReaderRegistration> CourseStudents { get; set; }
+        public bool Available { get; set; }
+        public DateTime PublicationDate { get; set; }
+        
+        public List<ReaderRegistration> BookReader { get; set; }
     }
 }
