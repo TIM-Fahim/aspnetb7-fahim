@@ -15,6 +15,7 @@ namespace Library.Controllers
 
         public IActionResult Index()
         {
+            _logger.LogInformation("I am in home index");
             return View();
         }
 
