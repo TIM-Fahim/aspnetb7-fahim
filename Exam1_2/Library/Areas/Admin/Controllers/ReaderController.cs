@@ -1,10 +1,11 @@
-﻿using Library.Areas.Admin; //Models;
+﻿using Exam1_2.Library.Areas.Admin; //Models;
 using Microsoft.AspNetCore.Mvc;
 using Autofac;
 using Exam1_2.Areas.Admin.Models;
-using FirstDemo.Web.Areas.Admin.Models;
-
-namespace Library.Areas.Admin.Controllers
+using Exam1_2.Library.Models;
+using Exam1_2.Library.Areas.Admin.Models;
+//Exam1_2.Library.Areas.Admin.Controllers
+namespace Exam1_2.Library.Areas.Admin.Controllers
 {
     [Area("Admin")]
     public class CourseController : Controller
@@ -43,7 +44,7 @@ namespace Library.Areas.Admin.Controllers
         {
             var dataTableModel = new DataTablesAjaxRequestModel(Request);
             var model = _scope.Resolve<BookListModel>();
-            return Json(model.GetPagedCourses(dataTableModel));
+            return Json(model.GetPagedBooks(dataTableModel));
         }
     }
 }

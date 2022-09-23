@@ -1,6 +1,7 @@
 ﻿using Autofac;
 using Exam1_2.Areas.Admin.Models;
-using FirstDemo.Web.Areas.Admin.Models;
+using Exam1_2.Library.Areas.Admin.Models;
+using Exam1_2.Library.Models;
 
 namespace Exam1_2.Library
 {

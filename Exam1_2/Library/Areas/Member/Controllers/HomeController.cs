@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 //Exam1_2.Library.Areas.Admin.Controllers
-namespace Exam1_2.Library.Areas.Admin.Controllers
+namespace Exam1_2.Library.Areas.Member.Controllers
 {
-    [Area("Admin")]
+    [Area("Member")]
     public class HomeController : Controller
     {
         public IActionResult Index()

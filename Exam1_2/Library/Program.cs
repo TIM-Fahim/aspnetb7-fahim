@@ -8,6 +8,8 @@ using System.Reflection;
 using Serilog;
 using Serilog.Events;
 using Exam1_2.Infrastructure.DbContexts;
+using Exam1_2.Library;
+using Exam1_2.Infrastructure;
 
 try
 {
@@ -15,14 +17,14 @@ try
 
     // Add services to the container.
     var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-
+    var assemblyName = Assembly.GetExecutingAssembly().FullName;
     //Autofac Start
     builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
     builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder =>
     {
         containerBuilder.RegisterModule(new WebModule());
-        //    containerBuilder.RegisterModule(new InfrastructureModule(connectionString,
-        //        assemblyName));
+        containerBuilder.RegisterModule(new InfrastructureModule(connectionString,
+            assemblyName));
     });
 
     //Autofac End

@@ -1,9 +1,11 @@
-﻿using Library.Areas.Admin; //Models;
+﻿using Exam1_2.Library.Areas.Admin; //Models;
 using Microsoft.AspNetCore.Mvc;
 using Autofac;
 using Exam1_2.Areas.Admin.Models;
+using Exam1_2.Library.Models;
+using Exam1_2.Library.Areas.Admin.Models;
 
-namespace Library.Areas.Admin.Controllers
+namespace Exam1_2.Library.Areas.Admin.Controllers
 {
     [Area("Admin")]
     public class BookController : Controller
@@ -33,7 +35,7 @@ namespace Library.Areas.Admin.Controllers
             if(ModelState.IsValid)
             {
                 model.ResolveDependency(_scope);
-                await model.CreateCourse();
+                await model.CreateBook();
             }
             return View(model);
         }
@@ -41,8 +43,8 @@ namespace Library.Areas.Admin.Controllers
         public JsonResult GetCourseData()
         {
             var dataTableModel = new DataTablesAjaxRequestModel(Request);
-            var model = _scope.Resolve<BookCreateModel>();
-            return Json(model.GetPagedCourses(dataTableModel));
+            var model = _scope.Resolve<BookListModel>();
+            return Json(model.GetPagedBooks(dataTableModel));
         }
     }
 }
