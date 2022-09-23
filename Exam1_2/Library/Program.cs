@@ -33,6 +33,8 @@ try
         .Enrich.FromLogContext()
         .ReadFrom.Configuration(builder.Configuration));
 
+    //var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
     //Serilog End
 
     builder.Services.AddDbContext<ApplicationDbContext>(options =>
@@ -66,6 +68,12 @@ try
 
     app.UseAuthentication();
     app.UseAuthorization();
+
+    //Areas Link
+
+    app.MapControllerRoute(
+        name: "areas",
+        pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
     app.MapControllerRoute(
         name: "default",
