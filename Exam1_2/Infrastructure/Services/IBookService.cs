@@ -4,7 +4,7 @@ namespace Exam1_2.Infrastructure.Services
 {
     public interface IBookService
     {
-        void CreateBook(Book course);
-        (int total, int totalDisplay, IList<Book> records) GetCourses(int pageIndex, int pageSize, string searchText, string orderby);
+        void CreateBook(Book book);
+        (int total, int totalDisplay, IList<Book> records) GetBooks(int pageIndex, int pageSize, string searchText, string orderby);
     }
 }

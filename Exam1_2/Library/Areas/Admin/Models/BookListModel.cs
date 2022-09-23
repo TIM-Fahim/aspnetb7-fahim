@@ -23,7 +23,7 @@ namespace Exam1_2.Library.Areas.Admin.Models
         internal object? GetPagedBooks(DataTablesAjaxRequestModel model)
 		{
             
-            var data = _bookService.GetCourses(
+            var data = _bookService.GetBooks(
                 model.PageIndex,
                 model.PageSize,
                 model.SearchText,

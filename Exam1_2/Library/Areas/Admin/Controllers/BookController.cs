@@ -40,7 +40,7 @@ namespace Exam1_2.Library.Areas.Admin.Controllers
             return View(model);
         }
 
-        public JsonResult GetCourseData()
+        public JsonResult GetBookData()
         {
             var dataTableModel = new DataTablesAjaxRequestModel(Request);
             var model = _scope.Resolve<BookListModel>();

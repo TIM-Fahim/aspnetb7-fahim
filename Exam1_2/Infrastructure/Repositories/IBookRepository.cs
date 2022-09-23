@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Exam1_2.Infrastructure.Repositories
 {
-    public interface IBookRepository : IRepository<Course, Guid>
+    public interface IBookRepository : IRepository<Book, Guid>
     {
-        (IList<Course> data, int total, int totalDisplay) GetCourses(int pageIndex,
+        (IList<Book> data, int total, int totalDisplay) GetCourses(int pageIndex,
             int pageSize, string searchText, string orderby);
     }
 }

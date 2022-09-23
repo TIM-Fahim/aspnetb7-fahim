@@ -5,8 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CourseBO = Exam1_2.Infrastructure.BusinessObjects.Book;
-using CourseEO = Exam1_2.Infrastructure.Entities.Book;
+
 
 namespace Exam1_2.Infrastructure.Services
 {
@@ -19,38 +18,38 @@ namespace Exam1_2.Infrastructure.Services
             _applicationUnitOfWork = applicationUnitOfWork;
         }
 
-        public void CreateCourse(CourseBO course)
+        public void CreateBook(BookBO book)
         {
-            course.SetProperClassStartDate();
+            
 
-            CourseEO courseEntity = new CourseEO();
-            courseEntity.Title = course.Name;
-            courseEntity.Fees = course.Fees;
-            courseEntity.ClassStartDate = course.ClassStartDate;
+            BookEO bookEntity = new BookEO();
+            bookEntity.Title = book.Name;
+            bookEntity.Available = book.Availble;
+            bookEntity.PublicationDate = book.PublicationDate;
 
-            _applicationUnitOfWork.Courses.Add(courseEntity);
+            _applicationUnitOfWork.Books.Add(courseEntity);
             _applicationUnitOfWork.Save();
         }
 
-        public (int total, int totalDisplay, IList<CourseBO> records) GetCourses(int pageIndex,
+        public (int total, int totalDisplay, IList<BookBO> records) GetBooks(int pageIndex,
             int pageSize, string searchText, string orderby)
         {
-            (IList<CourseEO> data, int total, int totalDisplay) results = _applicationUnitOfWork
-                .Courses.GetCourses(pageIndex, pageSize, searchText, orderby);
+            (IList<BookEO> data, int total, int totalDisplay) results = _applicationUnitOfWork
+                .Book.GetBooks(pageIndex, pageSize, searchText, orderby);
 
-            IList<CourseBO> courses = new List<CourseBO>();
-            foreach (CourseEO courseEO in results.data)
+            IList<BookBO> books = new List<BookBO>();
+            foreach (BookEO bookEO in results.data)
             {
-                courses.Add(new CourseBO
+                books.Add(new BookBO
                 {
-                    Id = courseEO.Id,
-                    Name = courseEO.Title,
-                    Fees = courseEO.Fees,
-                    ClassStartDate = courseEO.ClassStartDate
+                    Id = bookEO.Id,
+                    Name = bookEO.Title,
+                    Availble = bookEO.Available,
+                    PublicationDate = bookEO.PublicationDate
                 });
             }
 
-            return (results.total, results.totalDisplay, courses);
+            return (results.total, results.totalDisplay, books);
         }
     }
 }

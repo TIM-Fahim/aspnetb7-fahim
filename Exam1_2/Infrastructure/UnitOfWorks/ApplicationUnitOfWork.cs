@@ -11,12 +11,12 @@ namespace Exam1_2.Infrastructure.UnitOfWorks
 {
     public class ApplicationUnitOfWork : UnitOfWork, IApplicationUnitOfWork
     {
-        public IBookRepository Courses { get; private set; }
+        public IBookRepository Books { get; private set; }
 
         public ApplicationUnitOfWork(IApplicationDbContext dbContext,
-            IBookRepository courseRepository) : base((DbContext)dbContext)
+            IBookRepository bookRepository) : base((DbContext)dbContext)
         {
-            Courses = courseRepository;
+            Books = BookRepository;
         }
     }
 }

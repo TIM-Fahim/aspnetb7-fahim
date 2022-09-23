@@ -15,7 +15,7 @@ namespace Exam1_2.Infrastructure.Repositories
         {
         }
 
-        public (IList<Book> data, int total, int totalDisplay) GetCourses(int pageIndex,
+        public (IList<Book> data, int total, int totalDisplay) GetBooks(int pageIndex,
             int pageSize, string searchText, string orderby)
         {
             (IList<Book> data, int total, int totalDisplay) results = 

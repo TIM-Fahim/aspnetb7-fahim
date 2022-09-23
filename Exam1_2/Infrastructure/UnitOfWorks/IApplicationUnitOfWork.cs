@@ -4,6 +4,6 @@ namespace Exam1_2.Infrastructure.UnitOfWorks
 {
     public interface IApplicationUnitOfWork : IUnitOfWork
     {
-        IBookRepository Courses { get; }
+        IBookRepository Books { get; }
     }
 }

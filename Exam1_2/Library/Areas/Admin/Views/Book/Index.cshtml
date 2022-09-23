@@ -17,12 +17,12 @@
         </div>
         <!-- /.card-header -->
         <div class="card-body">
-            <table id="courses" class="table table-bordered table-striped">
+            <table id="books" class="table table-bordered table-striped">
             <thead>
             <tr>
                 <th>Title</th>
-                <th>Fees</th>
-                <th>Start Date</th>
+                <th>Available</th>
+                <th>Publication Dates</th>
             </tr>
             </thead>
             <tfoot>
@@ -53,7 +53,7 @@
         "processing": true,
         "serverSide": true,
         "ajax": {
-            "url": "/admin/course/GetCourseData",
+            "url": "/admin/course/GetBookData",
         },
     });
   });

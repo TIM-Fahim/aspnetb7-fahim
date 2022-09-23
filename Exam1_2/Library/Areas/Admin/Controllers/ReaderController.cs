@@ -8,14 +8,14 @@ using Exam1_2.Library.Areas.Admin.Models;
 namespace Exam1_2.Library.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class CourseController : Controller
+    public class ReaderController : Controller
     {
         private readonly ILifetimeScope _scope;
-        private readonly ILogger<CourseController> _logger;
-        public CourseController(ILogger<CourseController> logger, ILifetimeScope scope)
+        private readonly ILogger<BookController> _logger;
+        public ReaderController(ILogger<ReaderController> logger, ILifetimeScope scope)
         {
             _scope = scope;
-            _logger = logger;
+            _logger = (ILogger<BookController>?)logger;
         }
 
         public IActionResult Index()
