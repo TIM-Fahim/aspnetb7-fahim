@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstDemo.Infrastructure
+namespace Exam1_2.Infrastructure
 {
     public interface ITimeService
     {

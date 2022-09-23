@@ -1,20 +1,20 @@
-﻿using FirstDemo.Infrastructure.DbContexts;
-using FirstDemo.Infrastructure.UnitOfWorks;
+﻿using Exam1_2.Infrastructure.DbContexts;
+using Exam1_2.Infrastructure.UnitOfWorks;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CourseBO = FirstDemo.Infrastructure.BusinessObjects.Course;
-using CourseEO = FirstDemo.Infrastructure.Entities.Course;
+using CourseBO = Exam1_2.Infrastructure.BusinessObjects.Book;
+using CourseEO = Exam1_2.Infrastructure.Entities.Book;
 
-namespace FirstDemo.Infrastructure.Services
+namespace Exam1_2.Infrastructure.Services
 {
-    public class CourseService : ICourseService
+    public class BookService : IBookService
     {
         private readonly IApplicationUnitOfWork _applicationUnitOfWork;
 
-        public CourseService(IApplicationUnitOfWork applicationUnitOfWork)
+        public BookService(IApplicationUnitOfWork applicationUnitOfWork)
         {
             _applicationUnitOfWork = applicationUnitOfWork;
         }

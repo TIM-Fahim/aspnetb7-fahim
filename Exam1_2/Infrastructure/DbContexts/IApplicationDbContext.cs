@@ -1,5 +1,5 @@
 ﻿using Exam1_2.Infrastructure.BusinessObjects;
-using FirstDemo.Infrastructure.Entities;
+using Exam1_2.Infrastructure.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Exam1_2.Infrastructure.DbContexts

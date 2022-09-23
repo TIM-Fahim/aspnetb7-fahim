@@ -1,7 +1,8 @@
 ﻿using Library.Areas.Admin; //Models;
 using Microsoft.AspNetCore.Mvc;
 using Autofac;
-
+using Exam1_2.Areas.Admin.Models;
+using FirstDemo.Web.Areas.Admin.Models;
 
 namespace Library.Areas.Admin.Controllers
 {
@@ -23,17 +24,17 @@ namespace Library.Areas.Admin.Controllers
 
         public IActionResult Create()
         {
-            CourseCreateModel model = _scope.Resolve<CourseCreateModel>();
+            BookCreateModel model = _scope.Resolve<BookCreateModel>();
             return View(model);
         }
 
         [HttpPost, ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(CourseCreateModel model)
+        public async Task<IActionResult> Create(BookCreateModel model)
         {
             if(ModelState.IsValid)
             {
                 model.ResolveDependency(_scope);
-                await model.CreateCourse();
+                await model.CreateBook();
             }
             return View(model);
         }
@@ -41,7 +42,7 @@ namespace Library.Areas.Admin.Controllers
         public JsonResult GetCourseData()
         {
             var dataTableModel = new DataTablesAjaxRequestModel(Request);
-            var model = _scope.Resolve<CourseListModel>();
+            var model = _scope.Resolve<BookListModel>();
             return Json(model.GetPagedCourses(dataTableModel));
         }
     }

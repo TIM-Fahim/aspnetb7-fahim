@@ -1,7 +1,8 @@
 ﻿using Autofac;
-using Infrastructure;
+using Exam1_2.Infrastructure;
 
-namespace FirstDemo.Web.Areas.Admin.Models
+
+namespace Exam1_2.Areas.Admin.Models
 {
     public class BaseModel
     {

@@ -1,28 +1,29 @@
 ﻿using Autofac;
-using FirstDemo.Infrastructure.Services;
-using FirstDemo.Web.Models;
+using Exam1_2.Areas.Admin.Models;
+using Exam1_2.Infrastructure.Services;
+using Library.Models;
 
 namespace FirstDemo.Web.Areas.Admin.Models
 {
-	public class CourseListModel : BaseModel
+	public class BookListModel : BaseModel
 	{
-        private ICourseService? _courseService;
+        private IBookService? _bookService;
 
-        public CourseListModel(ICourseService coursService)
+        public BookListModel(IBookService coursService)
         {
-            _courseService = coursService;
+            _bookService = coursService;
         }
 
         public override void ResolveDependency(ILifetimeScope scope)
         {
             base.ResolveDependency(scope);
-            _courseService = _scope.Resolve<ICourseService>();
+            _bookService = _scope.Resolve<IBookService>();
         }
 
         internal object? GetPagedCourses(DataTablesAjaxRequestModel model)
 		{
             
-            var data = _courseService.GetCourses(
+            var data = _bookService.GetCourses(
                 model.PageIndex,
                 model.PageSize,
                 model.SearchText,
@@ -36,8 +37,8 @@ namespace FirstDemo.Web.Areas.Admin.Models
                         select new string[]
                         {
                                 record.Name,
-                                record.Fees.ToString(),
-                                record.ClassStartDate.ToString(),
+                                record.Availble.ToString(),
+                                record.PublicationDate.ToString(),
                                 record.Id.ToString()
                         }
                     ).ToArray()

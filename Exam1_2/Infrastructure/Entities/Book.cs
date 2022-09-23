@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstDemo.Infrastructure.Entities
+namespace Exam1_2.Infrastructure.Entities
 {
     public class Course : IEntity<Guid>
     {
@@ -13,6 +13,6 @@ namespace FirstDemo.Infrastructure.Entities
         public double Fees { get; set; }
         public DateTime ClassStartDate { get; set; }
         public List<Topic> Topics { get; set; }
-        public List<CourseRegistration> CourseStudents { get; set; }
+        public List<ReaderRegistration> CourseStudents { get; set; }
     }
 }

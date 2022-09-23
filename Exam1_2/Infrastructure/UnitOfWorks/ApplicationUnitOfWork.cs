@@ -1,5 +1,5 @@
-﻿using FirstDemo.Infrastructure.DbContexts;
-using FirstDemo.Infrastructure.Repositories;
+﻿using Exam1_2.Infrastructure.DbContexts;
+using Exam1_2.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -7,14 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstDemo.Infrastructure.UnitOfWorks
+namespace Exam1_2.Infrastructure.UnitOfWorks
 {
     public class ApplicationUnitOfWork : UnitOfWork, IApplicationUnitOfWork
     {
-        public ICourseRepository Courses { get; private set; }
+        public IBookRepository Courses { get; private set; }
 
         public ApplicationUnitOfWork(IApplicationDbContext dbContext,
-            ICourseRepository courseRepository) : base((DbContext)dbContext)
+            IBookRepository courseRepository) : base((DbContext)dbContext)
         {
             Courses = courseRepository;
         }

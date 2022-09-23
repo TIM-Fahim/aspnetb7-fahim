@@ -1,9 +1,9 @@
-﻿using FirstDemo.Infrastructure.Repositories;
+﻿using Exam1_2.Infrastructure.Repositories;
 
-namespace FirstDemo.Infrastructure.UnitOfWorks
+namespace Exam1_2.Infrastructure.UnitOfWorks
 {
     public interface IApplicationUnitOfWork : IUnitOfWork
     {
-        ICourseRepository Courses { get; }
+        IBookRepository Courses { get; }
     }
 }

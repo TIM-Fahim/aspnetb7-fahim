@@ -1,15 +1,15 @@
 ﻿using Autofac;
-using FirstDemo.Infrastructure.DbContexts;
-using FirstDemo.Infrastructure.Repositories;
-using FirstDemo.Infrastructure.Services;
-using FirstDemo.Infrastructure.UnitOfWorks;
+using Exam1_2.Infrastructure.DbContexts;
+using Exam1_2.Infrastructure.Repositories;
+using Exam1_2.Infrastructure.Services;
+using Exam1_2.Infrastructure.UnitOfWorks;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstDemo.Infrastructure
+namespace Exam1_2.Infrastructure
 {
     public class InfrastructureModule : Module
     {
@@ -34,10 +34,10 @@ namespace FirstDemo.Infrastructure
                 .WithParameter("migrationAssemblyName", _migrationAssemblyName)
                 .InstancePerLifetimeScope();
 
-            builder.RegisterType<CourseService>().As<ICourseService>()
+            builder.RegisterType<CourseService>().As<IBookService>()
                 .InstancePerLifetimeScope();
 
-            builder.RegisterType<CourseRepository>().As<ICourseRepository>()
+            builder.RegisterType<BookRepository>().As<IBookRepository>()
                 .InstancePerLifetimeScope();
 
             builder.RegisterType<ApplicationUnitOfWork>().As<IApplicationUnitOfWork>()

@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstDemo.Infrastructure.Entities
+namespace Exam1_2.Infrastructure.Entities
 {
-    public class Student : IEntity<Guid>
+    public class Reader : IEntity<Guid>
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }
-        public double Cgpa { get; set; }
-        public List<CourseRegistration> StudentCourses { get; set; }
+        public double Balance { get; set; }
+        public List<ReaderRegistration> ReaderBooks { get; set; }
     }
 }

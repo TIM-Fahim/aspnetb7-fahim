@@ -4,14 +4,15 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 using System.Linq.Expressions;
-using FirstDemo.Infrastructure.Entities;
+using Exam1_2.Infrastructure.Entities;
 using System.Data.Common;
 using Microsoft.Data.SqlClient;
 using System.Data;
 using System.Data.SqlTypes;
 using System.Linq.Dynamic.Core;
+using Exam1_2.Infrastructure.Repositories;
 
-namespace FirstDemo.Infrastructure.Repositories
+namespace Exam1_2.Infrastructure.Repositories
 {
     public abstract class Repository<TEntity, TKey>
         : IRepository<TEntity, TKey>

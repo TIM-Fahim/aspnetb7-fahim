@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 using Serilog;
 using Serilog.Events;
+using Exam1_2.Infrastructure.DbContexts;
 
 try
 {

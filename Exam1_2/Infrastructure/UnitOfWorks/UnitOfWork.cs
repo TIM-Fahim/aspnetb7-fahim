@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstDemo.Infrastructure.UnitOfWorks
+namespace Exam1_2.Infrastructure.UnitOfWorks
 {
     public abstract class UnitOfWork : IUnitOfWork
     {

@@ -1,5 +1,5 @@
-﻿using FirstDemo.Infrastructure.DbContexts;
-using FirstDemo.Infrastructure.Entities;
+﻿using Exam1_2.Infrastructure.DbContexts;
+using Exam1_2.Infrastructure.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -7,11 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstDemo.Infrastructure.Repositories
+namespace Exam1_2.Infrastructure.Repositories
 {
-    public class CourseRepository : Repository<Course, Guid>, ICourseRepository
+    public class BookRepository : Repository<Book, Guid>, IBookRepository
     {
-        public CourseRepository(IApplicationDbContext context) : base((DbContext)context)
+        public BookRepository(IApplicationDbContext context) : base((DbContext)context)
         {
         }
 
