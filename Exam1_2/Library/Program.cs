@@ -1,11 +1,23 @@
+using Autofac.Extensions.DependencyInjection;
+using Autofac;
+using Library;
 using Library.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder => {
+    containerBuilder.RegisterModule(new WebModule());
+    //    containerBuilder.RegisterModule(new InfrastructureModule(connectionString,
+    //        assemblyName));
+});
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
