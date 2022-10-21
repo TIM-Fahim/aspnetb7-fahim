@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\bin\Debug\net6.0\Way Too Long Words.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\bin\Debug\net6.0\Way Too Long Words.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\bin\Debug\net6.0\Way Too Long Words.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\bin\Debug\net6.0\Way Too Long Words.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\bin\Debug\net6.0\Way Too Long Words.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\obj\Debug\net6.0\refint\Way Too Long Words.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Way Too Long Words\obj\Debug\net6.0\ref\Way Too Long Words.dll

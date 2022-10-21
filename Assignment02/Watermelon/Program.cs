@@ -3,17 +3,17 @@
 
 int input = Convert.ToInt32(Console.ReadLine());
 
-if (input % 2 == 0)
+if (input % 2 == 0 && input>3)
 {
-    int pice = input / 2;
-    if (pice % 2 == 0)
-    {
+    //int pice = input / 2;
+    //if (pice % 2 == 0)
+    //{
         Console.WriteLine("YES");
-    }
-    else
-    {
-        Console.WriteLine("NO");
-    }
+    //}
+    //else
+    //{
+    //    Console.WriteLine("NO");
+    //}
 }
 else
 {
