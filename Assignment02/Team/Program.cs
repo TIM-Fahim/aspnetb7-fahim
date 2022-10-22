@@ -1,29 +1,33 @@
-﻿int numberOfProblem = Convert.ToInt32(Console.ReadLine());
+﻿int numberOfProblems = Convert.ToInt32(Console.ReadLine());
 
-int[][] problems = new int[numberOfProblem][];
+int answer = 0;
 
-for (int i = 0; i < numberOfProblem; i++)
+string[] inputs = new string[numberOfProblems];
+
+for (int i = 0; i < numberOfProblems; i++)
 {
-    problems[i] = new int[4];
+    inputs[i] = Console.ReadLine();
+}
+
+foreach (string input in inputs)
+{
+    string[] split = input.Split(" ");
+    //int[] splitInt = new int[split.Length];
     int sum = 0;
-    for (int j = 0; j < 4; j++)
+    for (int i = 0; i < split.Length; i++)
     {
-        if (j == 3)
+
+        if (i == 2)
         {
-            problems[i][j] = sum;
+            sum += Convert.ToInt32(split[i]);
+            if (sum >= 2)
+            {
+                answer += 1;
+            }
+            sum = 0;
             break;
         }
-        problems[i][j] = Convert.ToInt32(Console.ReadLine());
-        sum += problems[i][j];
+        sum += Convert.ToInt32(split[i]);
     }
 }
-int answer = 0;
-for (int i = 0; i < numberOfProblem; i++)
-{
-    if (problems[i][3] >= 2)
-    {
-        answer += 1;
-    }
-}
-
 Console.WriteLine(answer);
