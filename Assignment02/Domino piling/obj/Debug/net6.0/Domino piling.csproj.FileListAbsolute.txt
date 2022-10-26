@@ -1,0 +1,15 @@
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\bin\Debug\net6.0\Domino piling.exe
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\bin\Debug\net6.0\Domino piling.deps.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\bin\Debug\net6.0\Domino piling.runtimeconfig.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\bin\Debug\net6.0\Domino piling.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\bin\Debug\net6.0\Domino piling.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\obj\Debug\net6.0\Domino piling.csproj.AssemblyReference.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\obj\Debug\net6.0\Domino piling.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\obj\Debug\net6.0\Domino piling.AssemblyInfoInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\obj\Debug\net6.0\Domino piling.AssemblyInfo.cs
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\obj\Debug\net6.0\Domino piling.csproj.CoreCompileInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\obj\Debug\net6.0\Domino piling.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\obj\Debug\net6.0\refint\Domino piling.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\obj\Debug\net6.0\Domino piling.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\obj\Debug\net6.0\Domino piling.genruntimeconfig.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Domino piling\obj\Debug\net6.0\ref\Domino piling.dll

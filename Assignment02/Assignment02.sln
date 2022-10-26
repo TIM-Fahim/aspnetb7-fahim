@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WellDevPractice", "WellDevP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Team", "Team\Team.csproj", "{5EC735B5-ED3D-422F-BEF6-45DA52F79A80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Next Round", "Next Round\Next Round.csproj", "{15958526-B217-467A-81E9-0AC6AC669DAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Next Round", "Next Round\Next Round.csproj", "{15958526-B217-467A-81E9-0AC6AC669DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domino piling", "Domino piling\Domino piling.csproj", "{1001C13B-69C6-4E59-8528-021EC9A4AFA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{15958526-B217-467A-81E9-0AC6AC669DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15958526-B217-467A-81E9-0AC6AC669DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15958526-B217-467A-81E9-0AC6AC669DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1001C13B-69C6-4E59-8528-021EC9A4AFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1001C13B-69C6-4E59-8528-021EC9A4AFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1001C13B-69C6-4E59-8528-021EC9A4AFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1001C13B-69C6-4E59-8528-021EC9A4AFA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
