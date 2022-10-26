@@ -1,0 +1,15 @@
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\bin\Debug\net6.0\Bit++.exe
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\bin\Debug\net6.0\Bit++.deps.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\bin\Debug\net6.0\Bit++.runtimeconfig.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\bin\Debug\net6.0\Bit++.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\bin\Debug\net6.0\Bit++.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\obj\Debug\net6.0\Bit++.csproj.AssemblyReference.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\obj\Debug\net6.0\Bit++.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\obj\Debug\net6.0\Bit++.AssemblyInfoInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\obj\Debug\net6.0\Bit++.AssemblyInfo.cs
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\obj\Debug\net6.0\Bit++.csproj.CoreCompileInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\obj\Debug\net6.0\Bit++.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\obj\Debug\net6.0\refint\Bit++.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\obj\Debug\net6.0\Bit++.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\obj\Debug\net6.0\Bit++.genruntimeconfig.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Bit++\obj\Debug\net6.0\ref\Bit++.dll

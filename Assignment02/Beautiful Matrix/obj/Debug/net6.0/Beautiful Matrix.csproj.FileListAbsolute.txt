@@ -1,0 +1,15 @@
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\bin\Debug\net6.0\Beautiful Matrix.exe
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\bin\Debug\net6.0\Beautiful Matrix.deps.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\bin\Debug\net6.0\Beautiful Matrix.runtimeconfig.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\bin\Debug\net6.0\Beautiful Matrix.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\bin\Debug\net6.0\Beautiful Matrix.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\obj\Debug\net6.0\Beautiful Matrix.csproj.AssemblyReference.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\obj\Debug\net6.0\Beautiful Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\obj\Debug\net6.0\Beautiful Matrix.AssemblyInfoInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\obj\Debug\net6.0\Beautiful Matrix.AssemblyInfo.cs
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\obj\Debug\net6.0\Beautiful Matrix.csproj.CoreCompileInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\obj\Debug\net6.0\Beautiful Matrix.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\obj\Debug\net6.0\refint\Beautiful Matrix.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\obj\Debug\net6.0\Beautiful Matrix.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\obj\Debug\net6.0\Beautiful Matrix.genruntimeconfig.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Beautiful Matrix\obj\Debug\net6.0\ref\Beautiful Matrix.dll

@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Next Round", "Next Round\Ne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domino piling", "Domino piling\Domino piling.csproj", "{1001C13B-69C6-4E59-8528-021EC9A4AFA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bit++", "Bit++\Bit++.csproj", "{FE14817E-6197-40BA-ABCF-B6F076EB0457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beautiful Matrix", "Beautiful Matrix\Beautiful Matrix.csproj", "{D8B2475C-374E-4B8F-843E-A76ECE94EB1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{1001C13B-69C6-4E59-8528-021EC9A4AFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1001C13B-69C6-4E59-8528-021EC9A4AFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1001C13B-69C6-4E59-8528-021EC9A4AFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE14817E-6197-40BA-ABCF-B6F076EB0457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE14817E-6197-40BA-ABCF-B6F076EB0457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE14817E-6197-40BA-ABCF-B6F076EB0457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE14817E-6197-40BA-ABCF-B6F076EB0457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B2475C-374E-4B8F-843E-A76ECE94EB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B2475C-374E-4B8F-843E-A76ECE94EB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B2475C-374E-4B8F-843E-A76ECE94EB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B2475C-374E-4B8F-843E-A76ECE94EB1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
