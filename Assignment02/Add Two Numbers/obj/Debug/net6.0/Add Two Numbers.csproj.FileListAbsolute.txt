@@ -1,0 +1,15 @@
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\bin\Debug\net6.0\Add Two Numbers.exe
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\bin\Debug\net6.0\Add Two Numbers.deps.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\bin\Debug\net6.0\Add Two Numbers.runtimeconfig.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\bin\Debug\net6.0\Add Two Numbers.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\bin\Debug\net6.0\Add Two Numbers.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\obj\Debug\net6.0\Add Two Numbers.csproj.AssemblyReference.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\obj\Debug\net6.0\Add Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\obj\Debug\net6.0\Add Two Numbers.AssemblyInfoInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\obj\Debug\net6.0\Add Two Numbers.AssemblyInfo.cs
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\obj\Debug\net6.0\Add Two Numbers.csproj.CoreCompileInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\obj\Debug\net6.0\Add Two Numbers.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\obj\Debug\net6.0\refint\Add Two Numbers.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\obj\Debug\net6.0\Add Two Numbers.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\obj\Debug\net6.0\Add Two Numbers.genruntimeconfig.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Add Two Numbers\obj\Debug\net6.0\ref\Add Two Numbers.dll

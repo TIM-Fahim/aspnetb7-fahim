@@ -21,27 +21,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bit++", "Bit++\Bit++.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beautiful Matrix", "Beautiful Matrix\Beautiful Matrix.csproj", "{D8B2475C-374E-4B8F-843E-A76ECE94EB1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{AC6B0A9D-833B-4A78-9273-1F6869A34046}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{AC6B0A9D-833B-4A78-9273-1F6869A34046}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.csproj", "{ACCC3E64-1576-48C9-B32B-787FC4A52575}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.csproj", "{ACCC3E64-1576-48C9-B32B-787FC4A52575}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalOperations", "MinimalOperations\MinimalOperations.csproj", "{2CA81844-9122-4E2A-AB9C-F01FB5F782E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalOperations", "MinimalOperations\MinimalOperations.csproj", "{2CA81844-9122-4E2A-AB9C-F01FB5F782E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{305D2D47-F45E-40B7-AE16-E6BAEB0ADEA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArray", "ReverseArray\ReverseArray.csproj", "{305D2D47-F45E-40B7-AE16-E6BAEB0ADEA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaysBetweenDates", "DaysBetweenDates\DaysBetweenDates.csproj", "{C993501F-2D39-4A4A-8384-B66061DBE222}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaysBetweenDates", "DaysBetweenDates\DaysBetweenDates.csproj", "{C993501F-2D39-4A4A-8384-B66061DBE222}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count", "Count\Count.csproj", "{7B70BCEC-E550-4775-AD4E-574AC2E4FDAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count", "Count\Count.csproj", "{7B70BCEC-E550-4775-AD4E-574AC2E4FDAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxDepth", "MaxDepth\MaxDepth.csproj", "{29425387-9266-4FF4-86C7-D0D84EC607CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxDepth", "MaxDepth\MaxDepth.csproj", "{29425387-9266-4FF4-86C7-D0D84EC607CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{D1110708-8B45-47C5-95F4-7FC8DC66A3AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{D1110708-8B45-47C5-95F4-7FC8DC66A3AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roman To Integer", "Roman To Integer\Roman To Integer.csproj", "{A5979CC0-374E-4FCE-9D49-1632B1108552}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roman To Integer", "Roman To Integer\Roman To Integer.csproj", "{A5979CC0-374E-4FCE-9D49-1632B1108552}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNumber", "FindNumber\FindNumber.csproj", "{C5C63C2D-A416-44EB-BC91-E3124FF9C4D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindNumber", "FindNumber\FindNumber.csproj", "{C5C63C2D-A416-44EB-BC91-E3124FF9C4D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Common Prefix", "Longest Common Prefix\Longest Common Prefix.csproj", "{AECCC6AC-0CB8-47D1-9BEC-43D70E643CFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Common Prefix", "Longest Common Prefix\Longest Common Prefix.csproj", "{AECCC6AC-0CB8-47D1-9BEC-43D70E643CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Two Numbers", "Add Two Numbers\Add Two Numbers.csproj", "{496850EF-AEAB-402F-BED7-38AB00B4F247}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{AECCC6AC-0CB8-47D1-9BEC-43D70E643CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AECCC6AC-0CB8-47D1-9BEC-43D70E643CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AECCC6AC-0CB8-47D1-9BEC-43D70E643CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496850EF-AEAB-402F-BED7-38AB00B4F247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496850EF-AEAB-402F-BED7-38AB00B4F247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496850EF-AEAB-402F-BED7-38AB00B4F247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496850EF-AEAB-402F-BED7-38AB00B4F247}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
