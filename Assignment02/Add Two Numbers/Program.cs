@@ -7,7 +7,7 @@ ListNode l1 = new ListNode(1);
 
 ListNode pointer1 = l1;
 
-for (int j = 0; j< 29; j++)
+for (int j = 0; j< 3; j++)
 {
     ListNode l = new ListNode(0);
     pointer1.next = l;
@@ -25,6 +25,9 @@ ListNode l2 = new ListNode(5);
 //}
 ListNode l3 = new ListNode(6);
 ListNode l4 = new ListNode(4);
+
+l2.next = l3;
+l3.next = l4;
 
 ListNode result = AddTwoNumbers2(l1, l2);
 

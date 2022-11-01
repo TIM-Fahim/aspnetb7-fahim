@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindNumber", "FindNumber\Fi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Common Prefix", "Longest Common Prefix\Longest Common Prefix.csproj", "{AECCC6AC-0CB8-47D1-9BEC-43D70E643CFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Two Numbers", "Add Two Numbers\Add Two Numbers.csproj", "{496850EF-AEAB-402F-BED7-38AB00B4F247}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add Two Numbers", "Add Two Numbers\Add Two Numbers.csproj", "{496850EF-AEAB-402F-BED7-38AB00B4F247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Two Integers", "Sum of Two Integers\Sum of Two Integers.csproj", "{8073C98C-2389-4603-9EB1-743473A1BCED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{496850EF-AEAB-402F-BED7-38AB00B4F247}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{496850EF-AEAB-402F-BED7-38AB00B4F247}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{496850EF-AEAB-402F-BED7-38AB00B4F247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8073C98C-2389-4603-9EB1-743473A1BCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8073C98C-2389-4603-9EB1-743473A1BCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8073C98C-2389-4603-9EB1-743473A1BCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8073C98C-2389-4603-9EB1-743473A1BCED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
