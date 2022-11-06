@@ -1,0 +1,15 @@
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\bin\Debug\net6.0\Sum of Two Integers.exe
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\bin\Debug\net6.0\Sum of Two Integers.deps.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\bin\Debug\net6.0\Sum of Two Integers.runtimeconfig.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\bin\Debug\net6.0\Sum of Two Integers.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\bin\Debug\net6.0\Sum of Two Integers.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\obj\Debug\net6.0\Sum of Two Integers.csproj.AssemblyReference.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\obj\Debug\net6.0\Sum of Two Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\obj\Debug\net6.0\Sum of Two Integers.AssemblyInfoInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\obj\Debug\net6.0\Sum of Two Integers.AssemblyInfo.cs
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\obj\Debug\net6.0\Sum of Two Integers.csproj.CoreCompileInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\obj\Debug\net6.0\Sum of Two Integers.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\obj\Debug\net6.0\refint\Sum of Two Integers.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\obj\Debug\net6.0\Sum of Two Integers.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\obj\Debug\net6.0\Sum of Two Integers.genruntimeconfig.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Sum of Two Integers\obj\Debug\net6.0\ref\Sum of Two Integers.dll
