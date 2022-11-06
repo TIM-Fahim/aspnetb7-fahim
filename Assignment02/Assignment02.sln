@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Common Prefix", "Lo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add Two Numbers", "Add Two Numbers\Add Two Numbers.csproj", "{496850EF-AEAB-402F-BED7-38AB00B4F247}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Two Integers", "Sum of Two Integers\Sum of Two Integers.csproj", "{8073C98C-2389-4603-9EB1-743473A1BCED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of Two Integers", "Sum of Two Integers\Sum of Two Integers.csproj", "{8073C98C-2389-4603-9EB1-743473A1BCED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Parentheses", "Valid Parentheses\Valid Parentheses.csproj", "{C4663C3A-2795-442A-A6D3-493A191B8A6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{8073C98C-2389-4603-9EB1-743473A1BCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8073C98C-2389-4603-9EB1-743473A1BCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8073C98C-2389-4603-9EB1-743473A1BCED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4663C3A-2795-442A-A6D3-493A191B8A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4663C3A-2795-442A-A6D3-493A191B8A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4663C3A-2795-442A-A6D3-493A191B8A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4663C3A-2795-442A-A6D3-493A191B8A6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
