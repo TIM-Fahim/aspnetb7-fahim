@@ -67,6 +67,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shuffle String", "Shuffle S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cells in a Range on an Excel Sheet", "Cells in a Range on an Excel Sheet\Cells in a Range on an Excel Sheet.csproj", "{F9199C6E-10A2-430A-81FA-C3440FAE0904}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decode the Message", "Decode the Message\Decode the Message.csproj", "{32899AB9-4D83-4CBC-B5BD-6120EBB9C1E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split a String in Balanced Strings", "Split a String in Balanced Strings\Split a String in Balanced Strings.csproj", "{F836C992-CF00-45E7-98D4-E2936B9EEB40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting the Sentence", "Sorting the Sentence\Sorting the Sentence.csproj", "{7B3ED255-65AD-4005-A6B2-C21A4C485185}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +207,18 @@ Global
 		{F9199C6E-10A2-430A-81FA-C3440FAE0904}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9199C6E-10A2-430A-81FA-C3440FAE0904}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9199C6E-10A2-430A-81FA-C3440FAE0904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32899AB9-4D83-4CBC-B5BD-6120EBB9C1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32899AB9-4D83-4CBC-B5BD-6120EBB9C1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32899AB9-4D83-4CBC-B5BD-6120EBB9C1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32899AB9-4D83-4CBC-B5BD-6120EBB9C1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F836C992-CF00-45E7-98D4-E2936B9EEB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F836C992-CF00-45E7-98D4-E2936B9EEB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F836C992-CF00-45E7-98D4-E2936B9EEB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F836C992-CF00-45E7-98D4-E2936B9EEB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3ED255-65AD-4005-A6B2-C21A4C485185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3ED255-65AD-4005-A6B2-C21A4C485185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3ED255-65AD-4005-A6B2-C21A4C485185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3ED255-65AD-4005-A6B2-C21A4C485185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

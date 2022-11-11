@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\bin\Debug\net6.0\Sorting the Sentence.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\bin\Debug\net6.0\Sorting the Sentence.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\bin\Debug\net6.0\Sorting the Sentence.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\bin\Debug\net6.0\Sorting the Sentence.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\bin\Debug\net6.0\Sorting the Sentence.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\obj\Debug\net6.0\Sorting the Sentence.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\obj\Debug\net6.0\Sorting the Sentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\obj\Debug\net6.0\Sorting the Sentence.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\obj\Debug\net6.0\Sorting the Sentence.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\obj\Debug\net6.0\Sorting the Sentence.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\obj\Debug\net6.0\Sorting the Sentence.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\obj\Debug\net6.0\refint\Sorting the Sentence.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\obj\Debug\net6.0\Sorting the Sentence.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\obj\Debug\net6.0\Sorting the Sentence.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Sorting the Sentence\obj\Debug\net6.0\ref\Sorting the Sentence.dll
