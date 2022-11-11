@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goal Parser Interpretation"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shuffle String", "Shuffle String\Shuffle String.csproj", "{A0430765-DDBF-460F-93A9-423E7C085952}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cells in a Range on an Excel Sheet", "Cells in a Range on an Excel Sheet\Cells in a Range on an Excel Sheet.csproj", "{F9199C6E-10A2-430A-81FA-C3440FAE0904}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{A0430765-DDBF-460F-93A9-423E7C085952}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0430765-DDBF-460F-93A9-423E7C085952}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0430765-DDBF-460F-93A9-423E7C085952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9199C6E-10A2-430A-81FA-C3440FAE0904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9199C6E-10A2-430A-81FA-C3440FAE0904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9199C6E-10A2-430A-81FA-C3440FAE0904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9199C6E-10A2-430A-81FA-C3440FAE0904}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
