@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split a String in Balanced 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting the Sentence", "Sorting the Sentence\Sorting the Sentence.csproj", "{7B3ED255-65AD-4005-A6B2-C21A4C485185}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Items Matching a Rule", "Count Items Matching a Rule\Count Items Matching a Rule.csproj", "{B56CEC1E-8533-4AB9-8D29-048902D5269C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique Morse Code Words", "Unique Morse Code Words\Unique Morse Code Words.csproj", "{FB6B8D7C-5030-488B-B56D-1C8C4CD69453}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +223,14 @@ Global
 		{7B3ED255-65AD-4005-A6B2-C21A4C485185}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B3ED255-65AD-4005-A6B2-C21A4C485185}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B3ED255-65AD-4005-A6B2-C21A4C485185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56CEC1E-8533-4AB9-8D29-048902D5269C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56CEC1E-8533-4AB9-8D29-048902D5269C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56CEC1E-8533-4AB9-8D29-048902D5269C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56CEC1E-8533-4AB9-8D29-048902D5269C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6B8D7C-5030-488B-B56D-1C8C4CD69453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6B8D7C-5030-488B-B56D-1C8C4CD69453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6B8D7C-5030-488B-B56D-1C8C4CD69453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6B8D7C-5030-488B-B56D-1C8C4CD69453}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

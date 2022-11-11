@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\bin\Debug\net6.0\Unique Morse Code Words.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\bin\Debug\net6.0\Unique Morse Code Words.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\bin\Debug\net6.0\Unique Morse Code Words.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\bin\Debug\net6.0\Unique Morse Code Words.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\bin\Debug\net6.0\Unique Morse Code Words.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\obj\Debug\net6.0\Unique Morse Code Words.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\obj\Debug\net6.0\Unique Morse Code Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\obj\Debug\net6.0\Unique Morse Code Words.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\obj\Debug\net6.0\Unique Morse Code Words.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\obj\Debug\net6.0\Unique Morse Code Words.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\obj\Debug\net6.0\Unique Morse Code Words.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\obj\Debug\net6.0\refint\Unique Morse Code Words.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\obj\Debug\net6.0\Unique Morse Code Words.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\obj\Debug\net6.0\Unique Morse Code Words.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Unique Morse Code Words\obj\Debug\net6.0\ref\Unique Morse Code Words.dll
