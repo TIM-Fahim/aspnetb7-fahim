@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\bin\Debug\net6.0\Defanging an IP Address.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\bin\Debug\net6.0\Defanging an IP Address.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\bin\Debug\net6.0\Defanging an IP Address.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\bin\Debug\net6.0\Defanging an IP Address.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\bin\Debug\net6.0\Defanging an IP Address.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\obj\Debug\net6.0\Defanging an IP Address.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\obj\Debug\net6.0\Defanging an IP Address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\obj\Debug\net6.0\Defanging an IP Address.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\obj\Debug\net6.0\Defanging an IP Address.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\obj\Debug\net6.0\Defanging an IP Address.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\obj\Debug\net6.0\Defanging an IP Address.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\obj\Debug\net6.0\refint\Defanging an IP Address.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\obj\Debug\net6.0\Defanging an IP Address.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\obj\Debug\net6.0\Defanging an IP Address.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Defanging an IP Address\obj\Debug\net6.0\ref\Defanging an IP Address.dll

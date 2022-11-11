@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\bin\Debug\net6.0\Final Value of Variable After Performing Operations.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\bin\Debug\net6.0\Final Value of Variable After Performing Operations.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\bin\Debug\net6.0\Final Value of Variable After Performing Operations.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\bin\Debug\net6.0\Final Value of Variable After Performing Operations.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\bin\Debug\net6.0\Final Value of Variable After Performing Operations.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\obj\Debug\net6.0\Final Value of Variable After Performing Operations.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\obj\Debug\net6.0\Final Value of Variable After Performing Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\obj\Debug\net6.0\Final Value of Variable After Performing Operations.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\obj\Debug\net6.0\Final Value of Variable After Performing Operations.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\obj\Debug\net6.0\Final Value of Variable After Performing Operations.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\obj\Debug\net6.0\Final Value of Variable After Performing Operations.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\obj\Debug\net6.0\refint\Final Value of Variable After Performing Operations.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\obj\Debug\net6.0\Final Value of Variable After Performing Operations.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\obj\Debug\net6.0\Final Value of Variable After Performing Operations.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Final Value of Variable After Performing Operations\obj\Debug\net6.0\ref\Final Value of Variable After Performing Operations.dll

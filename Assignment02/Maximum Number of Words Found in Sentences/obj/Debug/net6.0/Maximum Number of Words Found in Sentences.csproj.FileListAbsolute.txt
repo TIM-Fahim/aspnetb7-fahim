@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\bin\Debug\net6.0\Maximum Number of Words Found in Sentences.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\bin\Debug\net6.0\Maximum Number of Words Found in Sentences.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\bin\Debug\net6.0\Maximum Number of Words Found in Sentences.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\bin\Debug\net6.0\Maximum Number of Words Found in Sentences.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\bin\Debug\net6.0\Maximum Number of Words Found in Sentences.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\refint\Maximum Number of Words Found in Sentences.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\ref\Maximum Number of Words Found in Sentences.dll

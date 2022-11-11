@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\bin\Debug\net6.0\Goal Parser Interpretation.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\bin\Debug\net6.0\Goal Parser Interpretation.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\bin\Debug\net6.0\Goal Parser Interpretation.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\bin\Debug\net6.0\Goal Parser Interpretation.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\bin\Debug\net6.0\Goal Parser Interpretation.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\obj\Debug\net6.0\Goal Parser Interpretation.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\obj\Debug\net6.0\Goal Parser Interpretation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\obj\Debug\net6.0\Goal Parser Interpretation.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\obj\Debug\net6.0\Goal Parser Interpretation.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\obj\Debug\net6.0\Goal Parser Interpretation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\obj\Debug\net6.0\Goal Parser Interpretation.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\obj\Debug\net6.0\refint\Goal Parser Interpretation.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\obj\Debug\net6.0\Goal Parser Interpretation.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\obj\Debug\net6.0\Goal Parser Interpretation.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Goal Parser Interpretation\obj\Debug\net6.0\ref\Goal Parser Interpretation.dll

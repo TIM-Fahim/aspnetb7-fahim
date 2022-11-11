@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\bin\Debug\net6.0\Jewels and Stones.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\bin\Debug\net6.0\Jewels and Stones.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\bin\Debug\net6.0\Jewels and Stones.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\bin\Debug\net6.0\Jewels and Stones.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\bin\Debug\net6.0\Jewels and Stones.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\obj\Debug\net6.0\Jewels and Stones.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\obj\Debug\net6.0\Jewels and Stones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\obj\Debug\net6.0\Jewels and Stones.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\obj\Debug\net6.0\Jewels and Stones.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\obj\Debug\net6.0\Jewels and Stones.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\obj\Debug\net6.0\Jewels and Stones.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\obj\Debug\net6.0\refint\Jewels and Stones.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\obj\Debug\net6.0\Jewels and Stones.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\obj\Debug\net6.0\Jewels and Stones.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Jewels and Stones\obj\Debug\net6.0\ref\Jewels and Stones.dll
