@@ -53,29 +53,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merge Two Sorted Lists", "M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Duplicates from Sorted Array", "Remove Duplicates from Sorted Array\Remove Duplicates from Sorted Array.csproj", "{05F714B6-891F-4FDE-82E9-F9B65445709A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Defanging an IP Address", "Defanging an IP Address\Defanging an IP Address.csproj", "{1BE4EA5C-E0EC-4726-9CBD-D8DE27505FD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Defanging an IP Address", "Defanging an IP Address\Defanging an IP Address.csproj", "{1BE4EA5C-E0EC-4726-9CBD-D8DE27505FD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final Value of Variable After Performing Operations", "Final Value of Variable After Performing Operations\Final Value of Variable After Performing Operations.csproj", "{E8B0E91B-0B8E-4832-ADCE-DC1B6DC977B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final Value of Variable After Performing Operations", "Final Value of Variable After Performing Operations\Final Value of Variable After Performing Operations.csproj", "{E8B0E91B-0B8E-4832-ADCE-DC1B6DC977B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Number of Words Found in Sentences", "Maximum Number of Words Found in Sentences\Maximum Number of Words Found in Sentences.csproj", "{ACBA0417-5F59-438C-87E9-8503E7DE785E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum Number of Words Found in Sentences", "Maximum Number of Words Found in Sentences\Maximum Number of Words Found in Sentences.csproj", "{ACBA0417-5F59-438C-87E9-8503E7DE785E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jewels and Stones", "Jewels and Stones\Jewels and Stones.csproj", "{7321584B-CC8B-4483-9853-F968C5CAAA5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jewels and Stones", "Jewels and Stones\Jewels and Stones.csproj", "{7321584B-CC8B-4483-9853-F968C5CAAA5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goal Parser Interpretation", "Goal Parser Interpretation\Goal Parser Interpretation.csproj", "{260DA8AF-0C38-40AF-AB52-D23AC1131460}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Goal Parser Interpretation", "Goal Parser Interpretation\Goal Parser Interpretation.csproj", "{260DA8AF-0C38-40AF-AB52-D23AC1131460}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shuffle String", "Shuffle String\Shuffle String.csproj", "{A0430765-DDBF-460F-93A9-423E7C085952}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shuffle String", "Shuffle String\Shuffle String.csproj", "{A0430765-DDBF-460F-93A9-423E7C085952}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cells in a Range on an Excel Sheet", "Cells in a Range on an Excel Sheet\Cells in a Range on an Excel Sheet.csproj", "{F9199C6E-10A2-430A-81FA-C3440FAE0904}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cells in a Range on an Excel Sheet", "Cells in a Range on an Excel Sheet\Cells in a Range on an Excel Sheet.csproj", "{F9199C6E-10A2-430A-81FA-C3440FAE0904}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decode the Message", "Decode the Message\Decode the Message.csproj", "{32899AB9-4D83-4CBC-B5BD-6120EBB9C1E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decode the Message", "Decode the Message\Decode the Message.csproj", "{32899AB9-4D83-4CBC-B5BD-6120EBB9C1E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split a String in Balanced Strings", "Split a String in Balanced Strings\Split a String in Balanced Strings.csproj", "{F836C992-CF00-45E7-98D4-E2936B9EEB40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Split a String in Balanced Strings", "Split a String in Balanced Strings\Split a String in Balanced Strings.csproj", "{F836C992-CF00-45E7-98D4-E2936B9EEB40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting the Sentence", "Sorting the Sentence\Sorting the Sentence.csproj", "{7B3ED255-65AD-4005-A6B2-C21A4C485185}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting the Sentence", "Sorting the Sentence\Sorting the Sentence.csproj", "{7B3ED255-65AD-4005-A6B2-C21A4C485185}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Items Matching a Rule", "Count Items Matching a Rule\Count Items Matching a Rule.csproj", "{B56CEC1E-8533-4AB9-8D29-048902D5269C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count Items Matching a Rule", "Count Items Matching a Rule\Count Items Matching a Rule.csproj", "{B56CEC1E-8533-4AB9-8D29-048902D5269C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique Morse Code Words", "Unique Morse Code Words\Unique Morse Code Words.csproj", "{FB6B8D7C-5030-488B-B56D-1C8C4CD69453}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unique Morse Code Words", "Unique Morse Code Words\Unique Morse Code Words.csproj", "{FB6B8D7C-5030-488B-B56D-1C8C4CD69453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check If Two String Arrays are Equivalent", "Check If Two String Arrays are Equivalent\Check If Two String Arrays are Equivalent.csproj", "{9B2DB5D1-CC90-4E99-BDBC-AAEBB21FD2F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +233,10 @@ Global
 		{FB6B8D7C-5030-488B-B56D-1C8C4CD69453}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB6B8D7C-5030-488B-B56D-1C8C4CD69453}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB6B8D7C-5030-488B-B56D-1C8C4CD69453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2DB5D1-CC90-4E99-BDBC-AAEBB21FD2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2DB5D1-CC90-4E99-BDBC-AAEBB21FD2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2DB5D1-CC90-4E99-BDBC-AAEBB21FD2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2DB5D1-CC90-4E99-BDBC-AAEBB21FD2F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
