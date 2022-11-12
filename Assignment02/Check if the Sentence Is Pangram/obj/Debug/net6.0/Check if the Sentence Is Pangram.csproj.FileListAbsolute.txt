@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\bin\Debug\net6.0\Check if the Sentence Is Pangram.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\bin\Debug\net6.0\Check if the Sentence Is Pangram.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\bin\Debug\net6.0\Check if the Sentence Is Pangram.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\bin\Debug\net6.0\Check if the Sentence Is Pangram.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\bin\Debug\net6.0\Check if the Sentence Is Pangram.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\obj\Debug\net6.0\Check if the Sentence Is Pangram.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\obj\Debug\net6.0\Check if the Sentence Is Pangram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\obj\Debug\net6.0\Check if the Sentence Is Pangram.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\obj\Debug\net6.0\Check if the Sentence Is Pangram.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\obj\Debug\net6.0\Check if the Sentence Is Pangram.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\obj\Debug\net6.0\Check if the Sentence Is Pangram.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\obj\Debug\net6.0\refint\Check if the Sentence Is Pangram.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\obj\Debug\net6.0\Check if the Sentence Is Pangram.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\obj\Debug\net6.0\Check if the Sentence Is Pangram.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Check if the Sentence Is Pangram\obj\Debug\net6.0\ref\Check if the Sentence Is Pangram.dll
