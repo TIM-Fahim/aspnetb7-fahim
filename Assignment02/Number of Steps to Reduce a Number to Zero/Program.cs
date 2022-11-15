@@ -20,7 +20,7 @@ int NumberOfSteps(int num)
     return steps;
 }
 
-int NumberOfStepsBti(int num)
+int NumberOfStepsBits(int num)
 {
     int steps = 0;
     

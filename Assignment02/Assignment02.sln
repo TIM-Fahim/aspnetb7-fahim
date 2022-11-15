@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fizz Buzz", "Fizz Buzz\Fizz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number of Steps to Reduce a Number to Zero", "Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero.csproj", "{0E412B62-B821-4237-A808-91CD5B8746FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middle of the Linked List", "Middle of the Linked List\Middle of the Linked List.csproj", "{97D70AD2-06D4-4558-A8E4-9E1DE7286BB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{0E412B62-B821-4237-A808-91CD5B8746FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E412B62-B821-4237-A808-91CD5B8746FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E412B62-B821-4237-A808-91CD5B8746FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D70AD2-06D4-4558-A8E4-9E1DE7286BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D70AD2-06D4-4558-A8E4-9E1DE7286BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D70AD2-06D4-4558-A8E4-9E1DE7286BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D70AD2-06D4-4558-A8E4-9E1DE7286BB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
