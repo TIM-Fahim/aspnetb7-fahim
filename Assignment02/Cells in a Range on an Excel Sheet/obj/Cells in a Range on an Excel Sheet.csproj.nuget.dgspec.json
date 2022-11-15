@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Cells in a Range on an Excel Sheet\\Cells in a Range on an Excel Sheet.csproj": {}
+    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Cells in a Range on an Excel Sheet\\Cells in a Range on an Excel Sheet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Cells in a Range on an Excel Sheet\\Cells in a Range on an Excel Sheet.csproj": {
+    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Cells in a Range on an Excel Sheet\\Cells in a Range on an Excel Sheet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Cells in a Range on an Excel Sheet\\Cells in a Range on an Excel Sheet.csproj",
+        "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Cells in a Range on an Excel Sheet\\Cells in a Range on an Excel Sheet.csproj",
         "projectName": "Cells in a Range on an Excel Sheet",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Cells in a Range on an Excel Sheet\\Cells in a Range on an Excel Sheet.csproj",
+        "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Cells in a Range on an Excel Sheet\\Cells in a Range on an Excel Sheet.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Cells in a Range on an Excel Sheet\\obj\\",
+        "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Cells in a Range on an Excel Sheet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

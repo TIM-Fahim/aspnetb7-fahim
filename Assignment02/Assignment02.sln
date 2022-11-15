@@ -77,11 +77,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count Items Matching a Rule
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unique Morse Code Words", "Unique Morse Code Words\Unique Morse Code Words.csproj", "{FB6B8D7C-5030-488B-B56D-1C8C4CD69453}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check If Two String Arrays are Equivalent", "Check If Two String Arrays are Equivalent\Check If Two String Arrays are Equivalent.csproj", "{9B2DB5D1-CC90-4E99-BDBC-AAEBB21FD2F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Check If Two String Arrays are Equivalent", "Check If Two String Arrays are Equivalent\Check If Two String Arrays are Equivalent.csproj", "{9B2DB5D1-CC90-4E99-BDBC-AAEBB21FD2F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check if the Sentence Is Pangram", "Check if the Sentence Is Pangram\Check if the Sentence Is Pangram.csproj", "{72FD156E-62E8-4576-A047-057F5556A7CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Check if the Sentence Is Pangram", "Check if the Sentence Is Pangram\Check if the Sentence Is Pangram.csproj", "{72FD156E-62E8-4576-A047-057F5556A7CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Length of Last Word", "Length of Last Word\Length of Last Word.csproj", "{F4A9FDA8-7DD8-499C-BDD0-A9715A8F5427}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Length of Last Word", "Length of Last Word\Length of Last Word.csproj", "{F4A9FDA8-7DD8-499C-BDD0-A9715A8F5427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Running Sum of 1d Array", "Running Sum of 1d Array\Running Sum of 1d Array.csproj", "{1338EACD-A24A-4ACD-BC29-D1EEFC30C5AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,10 @@ Global
 		{F4A9FDA8-7DD8-499C-BDD0-A9715A8F5427}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4A9FDA8-7DD8-499C-BDD0-A9715A8F5427}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4A9FDA8-7DD8-499C-BDD0-A9715A8F5427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1338EACD-A24A-4ACD-BC29-D1EEFC30C5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1338EACD-A24A-4ACD-BC29-D1EEFC30C5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1338EACD-A24A-4ACD-BC29-D1EEFC30C5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1338EACD-A24A-4ACD-BC29-D1EEFC30C5AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

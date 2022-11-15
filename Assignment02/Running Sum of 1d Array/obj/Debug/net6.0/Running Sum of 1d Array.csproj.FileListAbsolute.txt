@@ -1,0 +1,15 @@
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\bin\Debug\net6.0\Running Sum of 1d Array.exe
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\bin\Debug\net6.0\Running Sum of 1d Array.deps.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\bin\Debug\net6.0\Running Sum of 1d Array.runtimeconfig.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\bin\Debug\net6.0\Running Sum of 1d Array.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\bin\Debug\net6.0\Running Sum of 1d Array.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.csproj.AssemblyReference.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.AssemblyInfoInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.AssemblyInfo.cs
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.csproj.CoreCompileInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\obj\Debug\net6.0\refint\Running Sum of 1d Array.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.genruntimeconfig.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Running Sum of 1d Array\obj\Debug\net6.0\ref\Running Sum of 1d Array.dll

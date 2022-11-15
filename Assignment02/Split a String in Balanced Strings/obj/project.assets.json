@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Split a String in Balanced Strings\\Split a String in Balanced Strings.csproj",
+      "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Split a String in Balanced Strings\\Split a String in Balanced Strings.csproj",
       "projectName": "Split a String in Balanced Strings",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Split a String in Balanced Strings\\Split a String in Balanced Strings.csproj",
+      "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Split a String in Balanced Strings\\Split a String in Balanced Strings.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Split a String in Balanced Strings\\obj\\",
+      "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Split a String in Balanced Strings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
