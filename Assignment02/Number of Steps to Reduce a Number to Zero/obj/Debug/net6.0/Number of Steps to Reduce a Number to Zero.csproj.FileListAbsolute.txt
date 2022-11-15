@@ -1,0 +1,15 @@
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\bin\Debug\net6.0\Number of Steps to Reduce a Number to Zero.exe
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\bin\Debug\net6.0\Number of Steps to Reduce a Number to Zero.deps.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\bin\Debug\net6.0\Number of Steps to Reduce a Number to Zero.runtimeconfig.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\bin\Debug\net6.0\Number of Steps to Reduce a Number to Zero.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\bin\Debug\net6.0\Number of Steps to Reduce a Number to Zero.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\obj\Debug\net6.0\Number of Steps to Reduce a Number to Zero.csproj.AssemblyReference.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\obj\Debug\net6.0\Number of Steps to Reduce a Number to Zero.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\obj\Debug\net6.0\Number of Steps to Reduce a Number to Zero.AssemblyInfoInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\obj\Debug\net6.0\Number of Steps to Reduce a Number to Zero.AssemblyInfo.cs
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\obj\Debug\net6.0\Number of Steps to Reduce a Number to Zero.csproj.CoreCompileInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\obj\Debug\net6.0\Number of Steps to Reduce a Number to Zero.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\obj\Debug\net6.0\refint\Number of Steps to Reduce a Number to Zero.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\obj\Debug\net6.0\Number of Steps to Reduce a Number to Zero.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\obj\Debug\net6.0\Number of Steps to Reduce a Number to Zero.genruntimeconfig.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Number of Steps to Reduce a Number to Zero\obj\Debug\net6.0\ref\Number of Steps to Reduce a Number to Zero.dll
