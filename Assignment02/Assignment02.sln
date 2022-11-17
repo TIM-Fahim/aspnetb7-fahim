@@ -83,15 +83,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Check if the Sentence Is Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Length of Last Word", "Length of Last Word\Length of Last Word.csproj", "{F4A9FDA8-7DD8-499C-BDD0-A9715A8F5427}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Running Sum of 1d Array", "Running Sum of 1d Array\Running Sum of 1d Array.csproj", "{1338EACD-A24A-4ACD-BC29-D1EEFC30C5AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Running Sum of 1d Array", "Running Sum of 1d Array\Running Sum of 1d Array.csproj", "{1338EACD-A24A-4ACD-BC29-D1EEFC30C5AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richest Customer Wealth", "Richest Customer Wealth\Richest Customer Wealth.csproj", "{DFBD8450-7D5E-4784-93C6-E8835F81B24D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Richest Customer Wealth", "Richest Customer Wealth\Richest Customer Wealth.csproj", "{DFBD8450-7D5E-4784-93C6-E8835F81B24D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fizz Buzz", "Fizz Buzz\Fizz Buzz.csproj", "{C3ABE19C-B17B-400C-AE72-25F3348D2ACA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fizz Buzz", "Fizz Buzz\Fizz Buzz.csproj", "{C3ABE19C-B17B-400C-AE72-25F3348D2ACA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number of Steps to Reduce a Number to Zero", "Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero.csproj", "{0E412B62-B821-4237-A808-91CD5B8746FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number of Steps to Reduce a Number to Zero", "Number of Steps to Reduce a Number to Zero\Number of Steps to Reduce a Number to Zero.csproj", "{0E412B62-B821-4237-A808-91CD5B8746FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middle of the Linked List", "Middle of the Linked List\Middle of the Linked List.csproj", "{97D70AD2-06D4-4558-A8E4-9E1DE7286BB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Middle of the Linked List", "Middle of the Linked List\Middle of the Linked List.csproj", "{97D70AD2-06D4-4558-A8E4-9E1DE7286BB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ransom Note", "Ransom Note\Ransom Note.csproj", "{2F89B230-8D09-4B9B-8D28-4573DD17BB61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +281,10 @@ Global
 		{97D70AD2-06D4-4558-A8E4-9E1DE7286BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97D70AD2-06D4-4558-A8E4-9E1DE7286BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97D70AD2-06D4-4558-A8E4-9E1DE7286BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F89B230-8D09-4B9B-8D28-4573DD17BB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F89B230-8D09-4B9B-8D28-4573DD17BB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F89B230-8D09-4B9B-8D28-4573DD17BB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F89B230-8D09-4B9B-8D28-4573DD17BB61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
