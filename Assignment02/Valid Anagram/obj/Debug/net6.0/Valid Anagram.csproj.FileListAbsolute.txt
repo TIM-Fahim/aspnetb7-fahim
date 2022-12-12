@@ -1,0 +1,15 @@
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\obj\Debug\net6.0\Valid Anagram.csproj.AssemblyReference.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\obj\Debug\net6.0\Valid Anagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\obj\Debug\net6.0\Valid Anagram.AssemblyInfoInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\obj\Debug\net6.0\Valid Anagram.AssemblyInfo.cs
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\obj\Debug\net6.0\Valid Anagram.csproj.CoreCompileInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\bin\Debug\net6.0\Valid Anagram.exe
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\bin\Debug\net6.0\Valid Anagram.deps.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\bin\Debug\net6.0\Valid Anagram.runtimeconfig.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\bin\Debug\net6.0\Valid Anagram.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\bin\Debug\net6.0\Valid Anagram.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\obj\Debug\net6.0\Valid Anagram.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\obj\Debug\net6.0\refint\Valid Anagram.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\obj\Debug\net6.0\Valid Anagram.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\obj\Debug\net6.0\Valid Anagram.genruntimeconfig.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Valid Anagram\obj\Debug\net6.0\ref\Valid Anagram.dll
