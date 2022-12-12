@@ -95,7 +95,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Middle of the Linked List",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ransom Note", "Ransom Note\Ransom Note.csproj", "{2F89B230-8D09-4B9B-8D28-4573DD17BB61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterViewPractice E", "InterViewPractice E\InterViewPractice E.csproj", "{C6FC87E0-DB4F-4636-90DB-16FEB5E25E8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterViewPractice E", "InterViewPractice E\InterViewPractice E.csproj", "{C6FC87E0-DB4F-4636-90DB-16FEB5E25E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Climbing Stairs", "Climbing Stairs\Climbing Stairs.csproj", "{6BA02AC0-464A-499A-A2B0-3FBA25F62665}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,10 @@ Global
 		{C6FC87E0-DB4F-4636-90DB-16FEB5E25E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6FC87E0-DB4F-4636-90DB-16FEB5E25E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6FC87E0-DB4F-4636-90DB-16FEB5E25E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA02AC0-464A-499A-A2B0-3FBA25F62665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA02AC0-464A-499A-A2B0-3FBA25F62665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA02AC0-464A-499A-A2B0-3FBA25F62665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA02AC0-464A-499A-A2B0-3FBA25F62665}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
