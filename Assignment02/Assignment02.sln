@@ -97,9 +97,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ransom Note", "Ransom Note\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterViewPractice E", "InterViewPractice E\InterViewPractice E.csproj", "{C6FC87E0-DB4F-4636-90DB-16FEB5E25E8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Climbing Stairs", "Climbing Stairs\Climbing Stairs.csproj", "{6BA02AC0-464A-499A-A2B0-3FBA25F62665}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Climbing Stairs", "Climbing Stairs\Climbing Stairs.csproj", "{6BA02AC0-464A-499A-A2B0-3FBA25F62665}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Anagram", "Valid Anagram\Valid Anagram.csproj", "{08425C4D-A402-4B01-8C66-1028AFBA943F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Valid Anagram", "Valid Anagram\Valid Anagram.csproj", "{08425C4D-A402-4B01-8C66-1028AFBA943F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single Number", "Single Number\Single Number.csproj", "{3AA79CF3-0CA6-4210-A2DD-ABAC6597F2E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{08425C4D-A402-4B01-8C66-1028AFBA943F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08425C4D-A402-4B01-8C66-1028AFBA943F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08425C4D-A402-4B01-8C66-1028AFBA943F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA79CF3-0CA6-4210-A2DD-ABAC6597F2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA79CF3-0CA6-4210-A2DD-ABAC6597F2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA79CF3-0CA6-4210-A2DD-ABAC6597F2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA79CF3-0CA6-4210-A2DD-ABAC6597F2E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

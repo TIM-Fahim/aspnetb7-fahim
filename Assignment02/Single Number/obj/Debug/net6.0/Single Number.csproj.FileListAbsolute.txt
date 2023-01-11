@@ -1,0 +1,15 @@
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\bin\Debug\net6.0\Single Number.exe
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\bin\Debug\net6.0\Single Number.deps.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\bin\Debug\net6.0\Single Number.runtimeconfig.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\bin\Debug\net6.0\Single Number.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\bin\Debug\net6.0\Single Number.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\obj\Debug\net6.0\Single Number.csproj.AssemblyReference.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\obj\Debug\net6.0\Single Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\obj\Debug\net6.0\Single Number.AssemblyInfoInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\obj\Debug\net6.0\Single Number.AssemblyInfo.cs
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\obj\Debug\net6.0\Single Number.csproj.CoreCompileInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\obj\Debug\net6.0\Single Number.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\obj\Debug\net6.0\refint\Single Number.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\obj\Debug\net6.0\Single Number.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\obj\Debug\net6.0\Single Number.genruntimeconfig.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Single Number\obj\Debug\net6.0\ref\Single Number.dll
