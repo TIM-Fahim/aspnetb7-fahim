@@ -1,0 +1,15 @@
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\bin\Debug\net6.0\Intersection of Two Arrays II.exe
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\bin\Debug\net6.0\Intersection of Two Arrays II.deps.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\bin\Debug\net6.0\Intersection of Two Arrays II.runtimeconfig.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\bin\Debug\net6.0\Intersection of Two Arrays II.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\bin\Debug\net6.0\Intersection of Two Arrays II.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\obj\Debug\net6.0\Intersection of Two Arrays II.csproj.AssemblyReference.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\obj\Debug\net6.0\Intersection of Two Arrays II.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\obj\Debug\net6.0\Intersection of Two Arrays II.AssemblyInfoInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\obj\Debug\net6.0\Intersection of Two Arrays II.AssemblyInfo.cs
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\obj\Debug\net6.0\Intersection of Two Arrays II.csproj.CoreCompileInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\obj\Debug\net6.0\Intersection of Two Arrays II.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\obj\Debug\net6.0\refint\Intersection of Two Arrays II.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\obj\Debug\net6.0\Intersection of Two Arrays II.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\obj\Debug\net6.0\Intersection of Two Arrays II.genruntimeconfig.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Intersection of Two Arrays II\obj\Debug\net6.0\ref\Intersection of Two Arrays II.dll

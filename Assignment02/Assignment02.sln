@@ -103,6 +103,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Valid Anagram", "Valid Anag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single Number", "Single Number\Single Number.csproj", "{3AA79CF3-0CA6-4210-A2DD-ABAC6597F2E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersection of Two Arrays II", "Intersection of Two Arrays II\Intersection of Two Arrays II.csproj", "{D120936B-70A3-49C2-B6B5-AC3E4532CA01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{3AA79CF3-0CA6-4210-A2DD-ABAC6597F2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AA79CF3-0CA6-4210-A2DD-ABAC6597F2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AA79CF3-0CA6-4210-A2DD-ABAC6597F2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D120936B-70A3-49C2-B6B5-AC3E4532CA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D120936B-70A3-49C2-B6B5-AC3E4532CA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D120936B-70A3-49C2-B6B5-AC3E4532CA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D120936B-70A3-49C2-B6B5-AC3E4532CA01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
