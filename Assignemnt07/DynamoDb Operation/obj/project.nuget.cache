@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WMu6Zuc+ZtGniIl26Rcz7gTqQHTf9x2bvzn7ZNM4TC4QtxNJdHZYtOy2DE5KS+KF8ztVje41WZGd7F6CfdzMjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignemnt07\\DynamoDb Operation\\DynamoDb Operation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\awssdk.core\\3.7.104.1\\awssdk.core.3.7.104.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\awssdk.dax\\3.7.100.66\\awssdk.dax.3.7.100.66.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.101.37\\awssdk.dynamodbv2.3.7.101.37.nupkg.sha512"
+  ],
+  "logs": []
+}
