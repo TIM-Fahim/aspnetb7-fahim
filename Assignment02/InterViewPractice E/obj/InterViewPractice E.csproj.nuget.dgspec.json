@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\InterViewPractice E\\InterViewPractice E.csproj": {}
+    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\InterViewPractice E\\InterViewPractice E.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\InterViewPractice E\\InterViewPractice E.csproj": {
+    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\InterViewPractice E\\InterViewPractice E.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\InterViewPractice E\\InterViewPractice E.csproj",
+        "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\InterViewPractice E\\InterViewPractice E.csproj",
         "projectName": "InterViewPractice E",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\InterViewPractice E\\InterViewPractice E.csproj",
+        "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\InterViewPractice E\\InterViewPractice E.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\InterViewPractice E\\obj\\",
+        "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\InterViewPractice E\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

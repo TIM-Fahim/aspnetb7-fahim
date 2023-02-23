@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Next Round\\Next Round.csproj": {}
+    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Next Round\\Next Round.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Next Round\\Next Round.csproj": {
+    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Next Round\\Next Round.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Next Round\\Next Round.csproj",
+        "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Next Round\\Next Round.csproj",
         "projectName": "Next Round",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Next Round\\Next Round.csproj",
+        "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Next Round\\Next Round.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Next Round\\obj\\",
+        "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Next Round\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

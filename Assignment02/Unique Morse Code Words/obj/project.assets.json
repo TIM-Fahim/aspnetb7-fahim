@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Unique Morse Code Words\\Unique Morse Code Words.csproj",
+      "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Unique Morse Code Words\\Unique Morse Code Words.csproj",
       "projectName": "Unique Morse Code Words",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Unique Morse Code Words\\Unique Morse Code Words.csproj",
+      "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Unique Morse Code Words\\Unique Morse Code Words.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Unique Morse Code Words\\obj\\",
+      "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Unique Morse Code Words\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

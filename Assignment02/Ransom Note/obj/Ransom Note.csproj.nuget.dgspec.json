@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Ransom Note\\Ransom Note.csproj": {}
+    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Ransom Note\\Ransom Note.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Ransom Note\\Ransom Note.csproj": {
+    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Ransom Note\\Ransom Note.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Ransom Note\\Ransom Note.csproj",
+        "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Ransom Note\\Ransom Note.csproj",
         "projectName": "Ransom Note",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Ransom Note\\Ransom Note.csproj",
+        "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Ransom Note\\Ransom Note.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Ransom Note\\obj\\",
+        "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Ransom Note\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

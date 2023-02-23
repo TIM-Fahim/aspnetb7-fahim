@@ -1,5 +1,5 @@
 ﻿// LeetCode
-string jewels = "z", stones = "ZZ";
+string jewels = "aA", stones = "aAAbbbb";
 Console.WriteLine(NumJewelsInStones(jewels, stones));
 int NumJewelsInStones(string jewels, string stones)
 {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Decode the Message\\Decode the Message.csproj": {}
+    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Decode the Message\\Decode the Message.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Decode the Message\\Decode the Message.csproj": {
+    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Decode the Message\\Decode the Message.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Decode the Message\\Decode the Message.csproj",
+        "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Decode the Message\\Decode the Message.csproj",
         "projectName": "Decode the Message",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Decode the Message\\Decode the Message.csproj",
+        "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Decode the Message\\Decode the Message.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Decode the Message\\obj\\",
+        "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Decode the Message\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
