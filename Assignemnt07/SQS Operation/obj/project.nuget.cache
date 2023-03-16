@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PMScXSpUGdFTw1vAXl/QDxMIDzi7urxSwUUFfc4B6No8j26j90KgiumVAgWdQLkLKzaXZYMStGB5XXbSeLgRnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignemnt07\\SQS Operation\\SQS Operation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\awssdk.core\\3.7.104.1\\awssdk.core.3.7.104.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\awssdk.sqs\\3.7.100.66\\awssdk.sqs.3.7.100.66.nupkg.sha512"
+  ],
+  "logs": []
+}
