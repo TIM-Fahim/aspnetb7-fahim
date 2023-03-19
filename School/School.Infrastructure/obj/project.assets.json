@@ -10706,11 +10706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
+      "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
       "projectName": "School.Infrastructure",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
+      "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Infrastructure\\obj\\",
+      "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
