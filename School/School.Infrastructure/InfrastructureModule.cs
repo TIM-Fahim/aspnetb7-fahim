@@ -1,7 +1,9 @@
 ﻿using Autofac;
+using Microsoft.AspNetCore.Cors.Infrastructure;
 using NuGet.Protocol.Core.Types;
 using School.Infrastructure.DbContexts;
 using School.Infrastructure.Repositories;
+using School.Infrastructure.Services;
 using School.Infrastructure.UnitOfWorks;
 using System;
 using System.Collections.Generic;
@@ -34,8 +36,11 @@ namespace School.Infrastructure
             builder.RegisterType<ApplicationDbContext>().As<IApplicationDbContext>()
                 .WithParameter("connectionString", _connectionString)
                 .WithParameter("migrationAssemblyName", _migrationAssemblyName)
-                .InstancePerLifetimeScope();
+            .InstancePerLifetimeScope();
             
+            builder.RegisterType<StudentService>().As<IStudentService>()
+                .InstancePerLifetimeScope();
+
             builder.RegisterType<StudentRepository>().As<IStudentRepository>()
                 .InstancePerLifetimeScope();
 
