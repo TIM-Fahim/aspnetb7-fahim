@@ -10690,6 +10690,7 @@
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.14",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.14",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.14",
+      "Microsoft.EntityFrameworkCore.Design >= 6.0.14",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.14",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.14",
       "Microsoft.VisualStudio.Web.CodeGeneration.Utils >= 6.0.13",
@@ -10706,11 +10707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
       "projectName": "School.Infrastructure",
-      "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10765,6 +10766,12 @@
             "version": "[6.0.14, )"
           },
           "Microsoft.AspNetCore.Identity.UI": {
+            "target": "Package",
+            "version": "[6.0.14, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[6.0.14, )"
           },

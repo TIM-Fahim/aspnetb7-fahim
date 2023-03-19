@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TrgPU+8ulh7H7MelcOdB+MCM+Qqh8BX8snXLymFwCgicJ9hVcT5whZSVw84IFEcOYmPFg16+COAtvAb3C3ingg==",
+  "dgSpecHash": "b+NcwY7Tfi+gzOuGzHZ3mAwn2Op87Ap5ikUqeH1n/kf0FBW8PbrIhjzF7h0qOL5WcfYOz1dQLotktwd7QijRUw==",
   "success": true,
-  "projectFilePath": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

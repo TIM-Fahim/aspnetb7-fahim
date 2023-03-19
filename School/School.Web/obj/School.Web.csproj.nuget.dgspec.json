@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Web\\School.Web.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Web\\School.Web.csproj": {}
   },
   "projects": {
-    "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
         "projectName": "School.Infrastructure",
-        "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,6 +69,12 @@
               "target": "Package",
               "version": "[6.0.14, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.14, )"
@@ -120,14 +126,14 @@
         }
       }
     },
-    "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Web\\School.Web.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Web\\School.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Web\\School.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Web\\School.Web.csproj",
         "projectName": "School.Web",
-        "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Web\\School.Web.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Web\\School.Web.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Web\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -149,8 +155,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj": {
-                "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj"
+              "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\School\\School.Infrastructure\\School.Infrastructure.csproj"
               }
             }
           }
