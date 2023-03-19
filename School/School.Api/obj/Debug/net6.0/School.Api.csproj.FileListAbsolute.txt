@@ -572,3 +572,4 @@ D:\DevSkill\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\refint\School.Api.
 D:\DevSkill\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.pdb
 D:\DevSkill\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.genruntimeconfig.cache
 D:\DevSkill\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\ref\School.Api.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

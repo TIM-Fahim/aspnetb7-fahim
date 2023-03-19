@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using School.Infrastructure.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,5 +30,6 @@ namespace School.Infrastructure.DbContexts
 
             base.OnConfiguring(optionsBuilder);
         }
+       public DbSet<Student> Students { get; set; }
     }
 }

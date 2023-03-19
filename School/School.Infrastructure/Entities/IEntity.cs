@@ -9,6 +9,6 @@ namespace School.Infrastructure.Entities
     //When we create a new entity, we need to implement this interface
     public interface IEntity<T>
     {
-        T Id { get; set; }
+        T ID { get; set; }
     }
 }
