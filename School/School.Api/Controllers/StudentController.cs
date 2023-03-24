@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Cors;
+﻿using Autofac;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
+using School.Api.DTOs;
 //using School.API.Models;
 using School.Infrastructure.BusinessObjects;
 //using School.Infrastructure.Models;
@@ -14,16 +16,22 @@ namespace School.Api.Controllers
     //[EnableCors("AllowSites")]
     public class StudentController : ControllerBase
     {
-        private readonly IStudentService _studentService;
-        public StudentController(IStudentService studentService)
+        //private readonly IStudentService _studentService;
+        private readonly ILifetimeScope _scope;
+        private readonly ILogger<StudentController> _logger;
+        public StudentController(ILifetimeScope scope, ILogger<StudentController> logger)
         {
-            _studentService = studentService;
+            _scope = scope;
+            _logger = logger;
         }
         // GET: api/<StudentController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<ActionResult<object>> Get()
         {
-            return new string[] { "value1", "value2" };
+            StudentDTO studentDTOs = _scope.Resolve<StudentDTO>();
+            var result = await studentDTOs.GetAllStudentAsync();
+            return Ok(result);
+
         }
 
         // GET api/<StudentController>/5
@@ -47,10 +55,21 @@ namespace School.Api.Controllers
 
         // DELETE api/<StudentController>/5
         [HttpDelete("{id}")]
-        public IActionResult Delete(Guid id)
+        public async Task<IActionResult> Delete(Guid id)
         {
-            _studentService.DeleteStudent(id);
-            return Ok();
+            //_studentService.DeleteStudent(id);
+            //return Ok();
+            try
+            {
+                StudentDTO studentDTO = _scope.Resolve<StudentDTO>();
+                studentDTO.DeleteStudent(id);
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error deleting student");
+                return BadRequest();
+            }
         }
     }
 }

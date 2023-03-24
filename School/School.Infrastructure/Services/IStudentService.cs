@@ -4,19 +4,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using StudentBO = School.Infrastructure.BusinessObjects.Student;
 namespace School.Infrastructure.Services
 {
     public interface IStudentService
     {
-        Task CreateStudent(Student student);
+        Task CreateStudent(StudentBO student);
 
-        Task UpdateStudent(Student student);
+        Task UpdateStudent(StudentBO student);
 
         Task DeleteStudent(Guid id);
 
-        Task<IList<Student>> GetStudents();
+        Task<IList<StudentBO>> GetStudents();
 
-        Task<Student> GetStudentById(Guid id);
+        Task<StudentBO> GetStudentById(Guid id);
     }
 }

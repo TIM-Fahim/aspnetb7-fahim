@@ -285,6 +285,12 @@ D:\DevSkill\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\refint\School.Api.
 D:\DevSkill\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.pdb
 D:\DevSkill\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.genruntimeconfig.cache
 D:\DevSkill\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\ref\School.Api.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\bin\Debug\net6.0\appsettings.json
 C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\bin\Debug\net6.0\School.Api.exe
@@ -552,13 +558,6 @@ C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\bin\Deb
 C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\bin\Debug\net6.0\School.Infrastructure.dll
 C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\bin\Debug\net6.0\School.Infrastructure.pdb
-C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.csproj.AssemblyReference.cache
-C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.AssemblyInfoInputs.cache
-C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.AssemblyInfo.cs
-C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\staticwebassets\msbuild.School.Api.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.School.Api.props
 C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.School.Api.props

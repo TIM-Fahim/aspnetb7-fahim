@@ -1,11 +1,15 @@
 ﻿using AutoMapper;
 using School.Infrastructure.BusinessObjects;
-using School.Infrastructure.UnitOfWorks;
+//using CourseBO = FirstDemo.Infrastructure.BusinessObjects.Course;
+//using CourseEO = FirstDemo.Infrastructure.Entities.Course;
+using StudentBO =  School.Infrastructure.BusinessObjects.Student;
+using StudentEO = School.Infrastructure.Entities.Student;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using School.Infrastructure.UnitOfWorks;
 
 namespace School.Infrastructure.Services
 {
@@ -20,7 +24,7 @@ namespace School.Infrastructure.Services
             _mapper = mapper;
         }
 
-        public async Task CreateStudent(Student student)
+        public async Task CreateStudent(StudentBO student)
         {
             throw new NotImplementedException();
         }
@@ -31,14 +35,22 @@ namespace School.Infrastructure.Services
             _applicationUnitOfWork.Save();
         }
 
-        public async Task<Student> GetStudentById(Guid id)
+        public async Task<StudentBO> GetStudentById(Guid id)
         {
             throw new NotImplementedException();
         }
 
-        public async Task<IList<Student>> GetStudents()
+        public async Task<IList<StudentBO>> GetStudents()
         {
-            throw new NotImplementedException();
+            IList<StudentEO> students =  _applicationUnitOfWork.Students.GetAll();
+            //return students != null ? _mapper.Map<List<StudentBO>>(students) : null;
+
+            List<StudentBO> studentBOs = new List<StudentBO>();
+            foreach (var student in students)
+            {
+                studentBOs.Add(_mapper.Map<StudentBO>(student));
+            }
+            return studentBOs;
         }
 
         public async Task UpdateStudent(Student student)
