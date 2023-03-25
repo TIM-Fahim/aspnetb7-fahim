@@ -26,7 +26,17 @@ namespace School.Infrastructure.Services
 
         public async Task CreateStudent(StudentBO student)
         {
-            throw new NotImplementedException();
+            var count = _applicationUnitOfWork.Students.GetCount(x => x.ID == student.ID);
+
+            if (count > 0)
+                throw new Exception("Student already exists");
+
+            //course.SetProperClassStartDate();
+
+            StudentEO studentEntity = _mapper.Map<StudentEO>(student);
+
+            _applicationUnitOfWork.Students.Add(studentEntity);
+            _applicationUnitOfWork.Save();
         }
 
         public async Task DeleteStudent(Guid id)
@@ -55,7 +65,15 @@ namespace School.Infrastructure.Services
 
         public async Task UpdateStudent(Student student)
         {
-            throw new NotImplementedException();
+            var studentEo = _applicationUnitOfWork.Students.GetById(student.ID);
+            if (studentEo != null)
+            {
+                studentEo = _mapper.Map(student, studentEo);
+
+                _applicationUnitOfWork.Save();
+            }
+            else
+                throw new InvalidOperationException("Course was not found");
         }
     }
 }

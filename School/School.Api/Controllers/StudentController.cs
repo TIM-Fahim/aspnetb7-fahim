@@ -43,14 +43,45 @@ namespace School.Api.Controllers
 
         // POST api/<StudentController>
         [HttpPost]
-        public void Post([FromBody] string value)
+       /* public void Post([FromBody] string value)
         {
+
+        }*/
+        public IActionResult Post(StudentDTO studentDTO)
+        {
+            try
+            {
+                studentDTO.ResolveDependency(_scope);
+                studentDTO.CreateStudent();
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Couldn't create student");
+                return BadRequest();
+            }
         }
 
         // PUT api/<StudentController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpPut] //("{id}")
+        //public void Put(int id, [FromBody] string value)
+        //{
+        //}
+
+        public IActionResult Put(StudentDTO model)
         {
+            try
+            {
+                model.ResolveDependency(_scope);
+                model.UpdateStudent();
+
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Couldn't delete course");
+                return BadRequest();
+            }
         }
 
         // DELETE api/<StudentController>/5

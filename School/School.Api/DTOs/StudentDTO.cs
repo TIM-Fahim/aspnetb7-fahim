@@ -52,5 +52,18 @@ namespace School.Api.DTOs
 
             return studentDTOs1;
         }
+
+        internal void CreateStudent()
+        {
+            Infrastructure.BusinessObjects.Student student = _mapper.Map<Infrastructure.BusinessObjects.Student>(this);
+
+            _studentService.CreateStudent(student);
+        }
+        internal void UpdateStudent()
+        {
+            Infrastructure.BusinessObjects.Student student = _mapper.Map<Infrastructure.BusinessObjects.Student>(this);
+
+            _studentService.UpdateStudent(student);
+        }
     }
 }
