@@ -31,5 +31,6 @@ namespace School.Infrastructure.DbContexts
             base.OnConfiguring(optionsBuilder);
         }
        public DbSet<Student> Students { get; set; }
+       public DbSet<ApplicationUser> Users { get; set; }
     }
 }

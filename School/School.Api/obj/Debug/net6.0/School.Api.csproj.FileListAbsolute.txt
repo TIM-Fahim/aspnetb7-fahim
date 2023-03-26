@@ -572,3 +572,4 @@ C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Deb
 C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.pdb
 C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.genruntimeconfig.cache
 C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\ref\School.Api.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\School\School.Api\obj\Debug\net6.0\School.Api.MvcApplicationPartsAssemblyInfo.cs
