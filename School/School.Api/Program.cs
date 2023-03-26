@@ -7,6 +7,9 @@ using Serilog;
 using Serilog.Events;
 using System.Reflection;
 using School.Infrastructure.DbContexts;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -34,6 +37,22 @@ try
         options.UseSqlServer(connectionString, m => m.MigrationsAssembly(assemblyName)));
     builder.Services.AddDatabaseDeveloperPageExceptionFilter();
     builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+    //JWT Token
+    builder.Services.AddAuthentication()
+   .AddJwtBearer(JwtBearerDefaults.AuthenticationScheme, x =>
+   {
+       x.RequireHttpsMetadata = false;
+       x.SaveToken = true;
+       x.TokenValidationParameters = new TokenValidationParameters
+       {
+           ValidateIssuerSigningKey = true,
+           IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Key"])),
+           ValidateIssuer = true,
+           ValidateAudience = true,
+           ValidIssuer = builder.Configuration["Jwt:Issuer"],
+           ValidAudience = builder.Configuration["Jwt:Audience"],
+       };
+   });
 
     // Add services to the container.
 

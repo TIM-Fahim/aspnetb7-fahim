@@ -36,7 +36,7 @@ namespace School.Api.Controllers
 
         // GET api/<StudentController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public string Get(Guid id)
         {
             return "value";
         }
