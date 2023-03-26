@@ -12,11 +12,15 @@ namespace School.Infrastructure.UnitOfWorks
     public class ApplicationUnitOfWork : UnitOfWork, IApplicationUnitOfWork
     {
         public IStudentRepository Students { get; private set; }
+        public IUserRerpository Users { get; private set; }
 
         public ApplicationUnitOfWork(IApplicationDbContext dbContext,
-            IStudentRepository studentRepository) : base((DbContext)dbContext)
+            IStudentRepository studentRepository,
+            IUserRerpository users) : base((DbContext)dbContext)
         {
             Students = studentRepository;
+            Users = users;
         }
+
     }
 }

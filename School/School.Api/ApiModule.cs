@@ -8,6 +8,7 @@ namespace School.Api
         protected override void Load(ContainerBuilder builder)
         {
             builder.RegisterType<StudentDTO>().AsSelf();
+            builder.RegisterType<UserDTO>().AsSelf();
             //builder.RegisterType<CourseAdvancedModel>().AsSelf();
 
             base.Load(builder);

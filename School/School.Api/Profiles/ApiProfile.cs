@@ -11,6 +11,7 @@ namespace School.API.Profiles
         {
             CreateMap<StudentDTO, StudentBO>().ReverseMap();
             CreateMap<StudentBO, StudentEO>().ReverseMap();
+            CreateMap<UserDTO, ApplicationUser>().ReverseMap();
         }
     }
 }

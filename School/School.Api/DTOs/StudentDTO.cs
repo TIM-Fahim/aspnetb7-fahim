@@ -9,7 +9,8 @@ namespace School.Api.DTOs
 {
     public class StudentDTO
     {
-       
+        private IStudentService? _studentService;
+        private IMapper _mapper;
         public Guid ID { get; set; }
         public string Name { get; set; }
         public DateTime DateOfBirth { get; set; }
@@ -17,8 +18,7 @@ namespace School.Api.DTOs
         public string PhoneNumber { get; set; }
         public string Address { get; set; }
         public double CGPA { get; set; }
-        private IStudentService? _studentService;
-        private IMapper _mapper;
+
         public StudentDTO() { }
 
         public StudentDTO(IStudentService studentService, IMapper mapper)

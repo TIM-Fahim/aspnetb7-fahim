@@ -44,9 +44,15 @@ namespace School.Infrastructure
             builder.RegisterType<StudentRepository>().As<IStudentRepository>()
                 .InstancePerLifetimeScope();
 
+            builder.RegisterType<UserRepository>().As<IUserRerpository>()
+               .InstancePerLifetimeScope();
+
             builder.RegisterType<ApplicationUnitOfWork>().As<IApplicationUnitOfWork>()
                 .InstancePerLifetimeScope();
-
+            builder.RegisterType<ApplicationUserService>().As<IApplicationUserService>()
+                .InstancePerLifetimeScope();
+            builder.RegisterType<TokenService>().As<ITokenService>()
+                .InstancePerLifetimeScope();
             base.Load(builder);
         }
     }

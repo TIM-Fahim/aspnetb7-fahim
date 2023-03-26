@@ -31,7 +31,6 @@ namespace School.Api.Controllers
             StudentDTO studentDTOs = _scope.Resolve<StudentDTO>();
             var result = await studentDTOs.GetAllStudentAsync();
             return Ok(result);
-
         }
 
         // GET api/<StudentController>/5
