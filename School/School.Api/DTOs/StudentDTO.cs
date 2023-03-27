@@ -65,5 +65,14 @@ namespace School.Api.DTOs
 
             _studentService.UpdateStudent(student);
         }
+
+        internal async Task<StudentDTO> GetStudentByIdAsync(Guid guid)
+        {
+            var student = await _studentService?.GetStudentById(guid);
+            //var studentDTOs = _mapper.Map<List<StudentDTO>>(students);
+
+            StudentDTO studentDTOs1 = _mapper.Map<StudentDTO>(student);
+            return studentDTOs1;
+        }
     }
 }

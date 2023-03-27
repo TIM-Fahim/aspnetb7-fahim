@@ -5,7 +5,6 @@ using School.Api.DTOs;
 namespace School.Api.Controllers
 {
     [ApiController]
-
     [Route("v1/[controller]")]
     public class UserController : ControllerBase
     {
@@ -21,6 +20,14 @@ namespace School.Api.Controllers
         {
             userDTO.ResolveDependency(_scope);
             var token = await userDTO.GetToken();
+            return Ok(token);
+        }
+
+        [HttpPost("register")]
+        public async Task<ActionResult<object>> Register(UserDTO userDTO)
+        {
+            userDTO.ResolveDependency(_scope);
+            var token = await userDTO.Register();
             return Ok(token);
         }
 

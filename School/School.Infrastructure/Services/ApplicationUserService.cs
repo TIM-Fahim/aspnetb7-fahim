@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Mvc;
 using School.Infrastructure.UnitOfWorks;
 using System;
 using System.Collections.Generic;
@@ -36,9 +37,20 @@ namespace School.Infrastructure.Services
             return token;
         }
 
-        public Task<string> Register(ApplicationUserBO applicationUserBO)
+        public async Task<string> Register(ApplicationUserBO applicationUserBO)
         {
-            throw new NotImplementedException();
+            var count = _applicationUnitOfWork.Users.GetCount(x => x.ID == applicationUserBO.ID);
+
+            if (count > 0)
+                throw new Exception("User already exists");
+
+            //course.SetProperClassStartDate();
+
+            ApplicationUserEO userEntity = _mapper.Map<ApplicationUserEO>(applicationUserBO);
+
+            _applicationUnitOfWork.Users.Add(userEntity);
+            _applicationUnitOfWork.Save();
+          return "Success";
         }
     }
 }

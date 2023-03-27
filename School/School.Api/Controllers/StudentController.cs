@@ -35,17 +35,15 @@ namespace School.Api.Controllers
 
         // GET api/<StudentController>/5
         [HttpGet("{id}")]
-        public string Get(Guid id)
+        public async Task<ActionResult> Get(Guid id)
         {
-            return "value";
+            StudentDTO studentDTOs = _scope.Resolve<StudentDTO>();
+            var result = await studentDTOs.GetStudentByIdAsync(id);
+            return Ok(result);
         }
 
         // POST api/<StudentController>
         [HttpPost]
-       /* public void Post([FromBody] string value)
-        {
-
-        }*/
         public IActionResult Post(StudentDTO studentDTO)
         {
             try

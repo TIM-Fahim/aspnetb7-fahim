@@ -36,5 +36,12 @@ namespace School.Api.DTOs
             var token = await _applicaitonUserService?.Login(user);
             return token;
         }
+
+        public async Task<string> Register()
+        {
+            var user = _mapper.Map<Infrastructure.BusinessObjects.ApplicationUser>(this);
+            var token = await _applicaitonUserService?.Register(user);
+            return token;
+        }
     }
 }

@@ -47,7 +47,9 @@ namespace School.Infrastructure.Services
 
         public async Task<StudentBO> GetStudentById(Guid id)
         {
-            throw new NotImplementedException();
+            StudentEO studentEO =  _applicationUnitOfWork.Students.GetById(id);
+            StudentBO studentBO = _mapper.Map<StudentBO>(studentEO);
+            return studentBO;
         }
 
         public async Task<IList<StudentBO>> GetStudents()
