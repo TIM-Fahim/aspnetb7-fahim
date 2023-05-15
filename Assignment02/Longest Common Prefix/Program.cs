@@ -6,7 +6,7 @@ string answer = "";
 
 string LongestCommonPrefix(string[] strs)
 {
-    if (strs.Length == 0 || strs == null)
+    if (strs.Length == 0 || strs == null || strs.Length>200)
     {
         return "";
     }

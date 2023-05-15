@@ -6,9 +6,16 @@ using System;
 
 namespace WellDevPracTice.Car
 { 
-public class Car<T>
+public class Car
 {
-public T Id { get; set; }
+         static Car()
+        { 
+        
+        }
 }
+
+    
+
+
 }
 

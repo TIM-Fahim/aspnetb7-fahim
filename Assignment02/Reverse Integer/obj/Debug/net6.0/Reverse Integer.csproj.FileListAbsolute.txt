@@ -1,0 +1,15 @@
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\bin\Debug\net6.0\Reverse Integer.exe
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\bin\Debug\net6.0\Reverse Integer.deps.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\bin\Debug\net6.0\Reverse Integer.runtimeconfig.json
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\bin\Debug\net6.0\Reverse Integer.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\bin\Debug\net6.0\Reverse Integer.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\obj\Debug\net6.0\Reverse Integer.csproj.AssemblyReference.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\obj\Debug\net6.0\Reverse Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\obj\Debug\net6.0\Reverse Integer.AssemblyInfoInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\obj\Debug\net6.0\Reverse Integer.AssemblyInfo.cs
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\obj\Debug\net6.0\Reverse Integer.csproj.CoreCompileInputs.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\obj\Debug\net6.0\Reverse Integer.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\obj\Debug\net6.0\refint\Reverse Integer.dll
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\obj\Debug\net6.0\Reverse Integer.pdb
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\obj\Debug\net6.0\Reverse Integer.genruntimeconfig.cache
+D:\DevSkill\aspnetb7-fahim\Assignment02\Reverse Integer\obj\Debug\net6.0\ref\Reverse Integer.dll

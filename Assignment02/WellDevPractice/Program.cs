@@ -1,10 +1,12 @@
-﻿    //using WellDevPracTice.Car;
+﻿//using WellDevPracTice.Car;
 
-    //Car<int> c = new Car<int>();
+//Car<int> c = new Car<int>();
 
-    //Car<Guid> gc = new Car<Guid>();
-    public class Program
-    { 
+//Car<Guid> gc = new Car<Guid>();
+using WellDevPracTice.Car;
+
+public class Program
+{ 
         public static void Main(string[] args)
         {
         string input = "AAABBCCCCDD";
@@ -28,6 +30,13 @@
         }
         output += count.ToString() + previous;
         Console.WriteLine(output);
+
+
+
+
+
+        Car c = new Car();
+        Car c2 = new Car();
         //ans = ans + input[i] + count;
     }
     
