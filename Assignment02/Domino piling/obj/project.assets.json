@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Domino piling\\Domino piling.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Domino piling\\Domino piling.csproj",
       "projectName": "Domino piling",
-      "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Domino piling\\Domino piling.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Domino piling\\Domino piling.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Domino piling\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Domino piling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

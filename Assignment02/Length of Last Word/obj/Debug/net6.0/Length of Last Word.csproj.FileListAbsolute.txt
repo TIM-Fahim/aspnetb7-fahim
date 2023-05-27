@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\bin\Debug\net6.0\Length of Last Word.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\bin\Debug\net6.0\Length of Last Word.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\bin\Debug\net6.0\Length of Last Word.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\bin\Debug\net6.0\Length of Last Word.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\bin\Debug\net6.0\Length of Last Word.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\obj\Debug\net6.0\Length of Last Word.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\obj\Debug\net6.0\Length of Last Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\obj\Debug\net6.0\Length of Last Word.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\obj\Debug\net6.0\Length of Last Word.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\obj\Debug\net6.0\Length of Last Word.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\obj\Debug\net6.0\Length of Last Word.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\obj\Debug\net6.0\refint\Length of Last Word.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\obj\Debug\net6.0\Length of Last Word.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\obj\Debug\net6.0\Length of Last Word.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Length of Last Word\obj\Debug\net6.0\ref\Length of Last Word.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\obj\Debug\net6.0\refint\RemoveDuplicates.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\RemoveDuplicates\obj\Debug\net6.0\ref\RemoveDuplicates.dll

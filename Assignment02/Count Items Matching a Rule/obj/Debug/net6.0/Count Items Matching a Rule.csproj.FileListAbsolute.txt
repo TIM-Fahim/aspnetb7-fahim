@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\bin\Debug\net6.0\Count Items Matching a Rule.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\bin\Debug\net6.0\Count Items Matching a Rule.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\bin\Debug\net6.0\Count Items Matching a Rule.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\bin\Debug\net6.0\Count Items Matching a Rule.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\bin\Debug\net6.0\Count Items Matching a Rule.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\obj\Debug\net6.0\Count Items Matching a Rule.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\obj\Debug\net6.0\Count Items Matching a Rule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\obj\Debug\net6.0\Count Items Matching a Rule.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\obj\Debug\net6.0\Count Items Matching a Rule.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\obj\Debug\net6.0\Count Items Matching a Rule.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\obj\Debug\net6.0\Count Items Matching a Rule.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\obj\Debug\net6.0\refint\Count Items Matching a Rule.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\obj\Debug\net6.0\Count Items Matching a Rule.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\obj\Debug\net6.0\Count Items Matching a Rule.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count Items Matching a Rule\obj\Debug\net6.0\ref\Count Items Matching a Rule.dll

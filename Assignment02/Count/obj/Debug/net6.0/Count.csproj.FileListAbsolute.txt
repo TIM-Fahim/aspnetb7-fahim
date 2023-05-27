@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\bin\Debug\net6.0\Count.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\bin\Debug\net6.0\Count.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\bin\Debug\net6.0\Count.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\bin\Debug\net6.0\Count.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\bin\Debug\net6.0\Count.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\obj\Debug\net6.0\Count.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\obj\Debug\net6.0\Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\obj\Debug\net6.0\Count.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\obj\Debug\net6.0\Count.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\obj\Debug\net6.0\Count.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\obj\Debug\net6.0\Count.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\obj\Debug\net6.0\refint\Count.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\obj\Debug\net6.0\Count.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\obj\Debug\net6.0\Count.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Count\obj\Debug\net6.0\ref\Count.dll

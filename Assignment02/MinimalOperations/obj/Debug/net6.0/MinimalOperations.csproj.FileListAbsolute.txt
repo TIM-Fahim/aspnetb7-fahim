@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\bin\Debug\net6.0\MinimalOperations.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\bin\Debug\net6.0\MinimalOperations.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\bin\Debug\net6.0\MinimalOperations.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\bin\Debug\net6.0\MinimalOperations.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\bin\Debug\net6.0\MinimalOperations.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\obj\Debug\net6.0\MinimalOperations.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\obj\Debug\net6.0\MinimalOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\obj\Debug\net6.0\MinimalOperations.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\obj\Debug\net6.0\MinimalOperations.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\obj\Debug\net6.0\MinimalOperations.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\obj\Debug\net6.0\MinimalOperations.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\obj\Debug\net6.0\refint\MinimalOperations.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\obj\Debug\net6.0\MinimalOperations.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\obj\Debug\net6.0\MinimalOperations.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\MinimalOperations\obj\Debug\net6.0\ref\MinimalOperations.dll

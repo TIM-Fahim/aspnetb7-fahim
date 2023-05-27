@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\bin\Debug\net6.0\DaysBetweenDates.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\bin\Debug\net6.0\DaysBetweenDates.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\bin\Debug\net6.0\DaysBetweenDates.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\bin\Debug\net6.0\DaysBetweenDates.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\bin\Debug\net6.0\DaysBetweenDates.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\obj\Debug\net6.0\DaysBetweenDates.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\obj\Debug\net6.0\DaysBetweenDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\obj\Debug\net6.0\DaysBetweenDates.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\obj\Debug\net6.0\DaysBetweenDates.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\obj\Debug\net6.0\DaysBetweenDates.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\obj\Debug\net6.0\DaysBetweenDates.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\obj\Debug\net6.0\refint\DaysBetweenDates.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\obj\Debug\net6.0\DaysBetweenDates.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\obj\Debug\net6.0\DaysBetweenDates.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\DaysBetweenDates\obj\Debug\net6.0\ref\DaysBetweenDates.dll

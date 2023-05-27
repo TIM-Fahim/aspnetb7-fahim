@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tLJj4vOWnoIp0hMy7YR6day7Euo6znKCdSDbpTiJr0Su4ycUwmlQZhHEAhns0Yn+kFTezMe1K39LE+Jv1QjkLA==",
+  "dgSpecHash": "XvuGvcyopx4ocs8pX/NFdUx8jMbKCrK+28pIRAkL5zW4DPzpGGSHw8MaVPVVT6il+6bOSvrzMPgS2iN0XK9cEQ==",
   "success": true,
-  "projectFilePath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Check if the Sentence Is Pangram\\Check if the Sentence Is Pangram.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Check if the Sentence Is Pangram\\Check if the Sentence Is Pangram.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

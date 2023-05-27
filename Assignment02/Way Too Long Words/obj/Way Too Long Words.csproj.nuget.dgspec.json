@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Way Too Long Words\\Way Too Long Words.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Way Too Long Words\\Way Too Long Words.csproj": {}
   },
   "projects": {
-    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Way Too Long Words\\Way Too Long Words.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Way Too Long Words\\Way Too Long Words.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Way Too Long Words\\Way Too Long Words.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Way Too Long Words\\Way Too Long Words.csproj",
         "projectName": "Way Too Long Words",
-        "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Way Too Long Words\\Way Too Long Words.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Way Too Long Words\\Way Too Long Words.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Way Too Long Words\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Way Too Long Words\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

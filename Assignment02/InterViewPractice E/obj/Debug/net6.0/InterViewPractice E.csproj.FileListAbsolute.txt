@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\InterViewPractice E\obj\Debug\net6.0\InterViewPractice E.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\InterViewPractice E\obj\Debug\net6.0\InterViewPractice E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\InterViewPractice E\obj\Debug\net6.0\InterViewPractice E.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\InterViewPractice E\obj\Debug\net6.0\InterViewPractice E.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\InterViewPractice E\obj\Debug\net6.0\InterViewPractice E.csproj.CoreCompileInputs.cache

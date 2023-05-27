@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\bin\Debug\net6.0\FindNumber.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\bin\Debug\net6.0\FindNumber.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\bin\Debug\net6.0\FindNumber.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\bin\Debug\net6.0\FindNumber.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\bin\Debug\net6.0\FindNumber.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\obj\Debug\net6.0\FindNumber.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\obj\Debug\net6.0\FindNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\obj\Debug\net6.0\FindNumber.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\obj\Debug\net6.0\FindNumber.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\obj\Debug\net6.0\FindNumber.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\obj\Debug\net6.0\FindNumber.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\obj\Debug\net6.0\refint\FindNumber.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\obj\Debug\net6.0\FindNumber.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\obj\Debug\net6.0\FindNumber.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\FindNumber\obj\Debug\net6.0\ref\FindNumber.dll

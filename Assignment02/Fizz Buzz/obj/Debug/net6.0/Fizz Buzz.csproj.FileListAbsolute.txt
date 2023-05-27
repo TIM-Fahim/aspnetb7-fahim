@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\bin\Debug\net6.0\Fizz Buzz.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\bin\Debug\net6.0\Fizz Buzz.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\bin\Debug\net6.0\Fizz Buzz.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\bin\Debug\net6.0\Fizz Buzz.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\bin\Debug\net6.0\Fizz Buzz.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\obj\Debug\net6.0\refint\Fizz Buzz.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\obj\Debug\net6.0\Fizz Buzz.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Fizz Buzz\obj\Debug\net6.0\ref\Fizz Buzz.dll

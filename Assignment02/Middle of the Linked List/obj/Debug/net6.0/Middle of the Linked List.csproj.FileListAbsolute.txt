@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\bin\Debug\net6.0\Middle of the Linked List.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\bin\Debug\net6.0\Middle of the Linked List.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\bin\Debug\net6.0\Middle of the Linked List.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\bin\Debug\net6.0\Middle of the Linked List.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\bin\Debug\net6.0\Middle of the Linked List.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\obj\Debug\net6.0\Middle of the Linked List.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\obj\Debug\net6.0\Middle of the Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\obj\Debug\net6.0\Middle of the Linked List.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\obj\Debug\net6.0\Middle of the Linked List.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\obj\Debug\net6.0\Middle of the Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\obj\Debug\net6.0\Middle of the Linked List.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\obj\Debug\net6.0\refint\Middle of the Linked List.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\obj\Debug\net6.0\Middle of the Linked List.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\obj\Debug\net6.0\Middle of the Linked List.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Middle of the Linked List\obj\Debug\net6.0\ref\Middle of the Linked List.dll

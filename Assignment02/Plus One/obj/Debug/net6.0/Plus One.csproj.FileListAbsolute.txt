@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\bin\Debug\net6.0\Plus One.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\bin\Debug\net6.0\Plus One.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\bin\Debug\net6.0\Plus One.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\bin\Debug\net6.0\Plus One.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\bin\Debug\net6.0\Plus One.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\obj\Debug\net6.0\Plus One.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\obj\Debug\net6.0\Plus One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\obj\Debug\net6.0\Plus One.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\obj\Debug\net6.0\Plus One.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\obj\Debug\net6.0\Plus One.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\obj\Debug\net6.0\Plus One.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\obj\Debug\net6.0\refint\Plus One.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\obj\Debug\net6.0\Plus One.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\obj\Debug\net6.0\Plus One.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Plus One\obj\Debug\net6.0\ref\Plus One.dll

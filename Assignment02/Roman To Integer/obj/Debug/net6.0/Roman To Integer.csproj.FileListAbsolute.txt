@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\bin\Debug\net6.0\Roman To Integer.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\bin\Debug\net6.0\Roman To Integer.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\bin\Debug\net6.0\Roman To Integer.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\bin\Debug\net6.0\Roman To Integer.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\bin\Debug\net6.0\Roman To Integer.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\obj\Debug\net6.0\Roman To Integer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\obj\Debug\net6.0\Roman To Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\obj\Debug\net6.0\Roman To Integer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\obj\Debug\net6.0\Roman To Integer.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\obj\Debug\net6.0\Roman To Integer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\obj\Debug\net6.0\Roman To Integer.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\obj\Debug\net6.0\refint\Roman To Integer.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\obj\Debug\net6.0\Roman To Integer.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\obj\Debug\net6.0\Roman To Integer.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Roman To Integer\obj\Debug\net6.0\ref\Roman To Integer.dll

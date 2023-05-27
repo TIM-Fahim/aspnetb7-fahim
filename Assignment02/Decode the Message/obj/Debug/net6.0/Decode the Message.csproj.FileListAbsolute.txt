@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\bin\Debug\net6.0\Decode the Message.exe
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\bin\Debug\net6.0\Decode the Message.deps.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\bin\Debug\net6.0\Decode the Message.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\bin\Debug\net6.0\Decode the Message.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\bin\Debug\net6.0\Decode the Message.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\obj\Debug\net6.0\Decode the Message.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\obj\Debug\net6.0\Decode the Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\obj\Debug\net6.0\Decode the Message.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\obj\Debug\net6.0\Decode the Message.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\obj\Debug\net6.0\Decode the Message.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\obj\Debug\net6.0\Decode the Message.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\obj\Debug\net6.0\refint\Decode the Message.dll
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\obj\Debug\net6.0\Decode the Message.pdb
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\obj\Debug\net6.0\Decode the Message.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\aspnetb7-fahim\Assignment02\Decode the Message\obj\Debug\net6.0\ref\Decode the Message.dll

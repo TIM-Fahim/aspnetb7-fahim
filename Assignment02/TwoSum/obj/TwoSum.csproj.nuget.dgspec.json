@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\TwoSum\\TwoSum.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\TwoSum\\TwoSum.csproj": {}
   },
   "projects": {
-    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\TwoSum\\TwoSum.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\TwoSum\\TwoSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\TwoSum\\TwoSum.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\TwoSum\\TwoSum.csproj",
         "projectName": "TwoSum",
-        "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\TwoSum\\TwoSum.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\TwoSum\\TwoSum.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\TwoSum\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\TwoSum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

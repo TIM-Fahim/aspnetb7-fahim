@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Middle of the Linked List\\Middle of the Linked List.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Middle of the Linked List\\Middle of the Linked List.csproj": {}
   },
   "projects": {
-    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Middle of the Linked List\\Middle of the Linked List.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Middle of the Linked List\\Middle of the Linked List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Middle of the Linked List\\Middle of the Linked List.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Middle of the Linked List\\Middle of the Linked List.csproj",
         "projectName": "Middle of the Linked List",
-        "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Middle of the Linked List\\Middle of the Linked List.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Middle of the Linked List\\Middle of the Linked List.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Middle of the Linked List\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Middle of the Linked List\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Find Duplicate in Array\\Find Duplicate in Array.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Find Duplicate in Array\\Find Duplicate in Array.csproj": {}
   },
   "projects": {
-    "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Find Duplicate in Array\\Find Duplicate in Array.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Find Duplicate in Array\\Find Duplicate in Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Find Duplicate in Array\\Find Duplicate in Array.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Find Duplicate in Array\\Find Duplicate in Array.csproj",
         "projectName": "Find Duplicate in Array",
-        "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Find Duplicate in Array\\Find Duplicate in Array.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Find Duplicate in Array\\Find Duplicate in Array.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Find Duplicate in Array\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Find Duplicate in Array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

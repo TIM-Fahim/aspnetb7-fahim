@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Intersection of Two Arrays II\\Intersection of Two Arrays II.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Intersection of Two Arrays II\\Intersection of Two Arrays II.csproj",
       "projectName": "Intersection of Two Arrays II",
-      "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Intersection of Two Arrays II\\Intersection of Two Arrays II.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Intersection of Two Arrays II\\Intersection of Two Arrays II.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Intersection of Two Arrays II\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Intersection of Two Arrays II\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

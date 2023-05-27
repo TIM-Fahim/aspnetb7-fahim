@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Middle of the Linked List/1.0.0": {
+        "runtime": {
+          "Middle of the Linked List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Middle of the Linked List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
