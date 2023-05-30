@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Roman To Integer\\Roman To Integer.csproj",
+      "projectUniqueName": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Roman To Integer\\Roman To Integer.csproj",
       "projectName": "Roman To Integer",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Roman To Integer\\Roman To Integer.csproj",
+      "projectPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Roman To Integer\\Roman To Integer.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\aspnetb7-fahim\\Assignment02\\Roman To Integer\\obj\\",
+      "outputPath": "D:\\DevSkill\\aspnetb7-fahim\\Assignment02\\Roman To Integer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
